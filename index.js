@@ -41,6 +41,7 @@ async function connectDb(){
         // console.log(await Mongo_Queries.find_asked14(db))
         // console.log(await Mongo_Queries.find_asked15(db))
         console.log(await Mongo_Queries.find_asked16(db))
+
        
 
 
