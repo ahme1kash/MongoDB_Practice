@@ -1,7 +1,7 @@
 const {Mongo_Queries} = require('./query.js')
 const express = require("express");
 const app = express();
-const { MongoClient, ServerApiVersion } = require("mongodb");
+const { MongoClient } = require("mongodb");
 const port = 3000;
 // Replace the placeholder with your Atlas connection string
 const connection_string = "mongodb://localhost:27017";
@@ -34,7 +34,13 @@ async function connectDb(){
         // console.log(await Mongo_Queries.find_asked7(db))
         // console.log(await Mongo_Queries.find_asked8(db))
         // console.log(await Mongo_Queries.find_asked9(db))
-        console.log(await Mongo_Queries.find_asked10(db))
+        // console.log(await Mongo_Queries.find_asked10(db))
+        // console.log(await Mongo_Queries.find_asked11(db))
+        // console.log(await Mongo_Queries.find_asked12(db))
+        // console.log(await Mongo_Queries.find_asked13(db))
+        // console.log(await Mongo_Queries.find_asked14(db))
+        // console.log(await Mongo_Queries.find_asked15(db))
+        console.log(await Mongo_Queries.find_asked16(db))
        
 
 

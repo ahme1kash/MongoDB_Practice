@@ -199,12 +199,65 @@ let query = {'grades.score':{$lte:10}}
     let projection = {"restaurant_id" : 1, "name":1,"borough":1,"cuisine" :1}
     const all_docs =  await collection.find(query,{projection}).toArray();
     return(all_docs)
+},
+// 21. Write a MongoDB query to find the restaurant Id, name, borough and cuisine for those
+//  restaurants which prepared dish except 'American' and 'Chinees'
+//  or restaurant's name begins with letter 'Wil'.
+find_asked11:async(db)=>{
+    const collection = db.collection("restaurants");
+    let query = {cuisine:{$nin:["American",'Chinese']}}
+    let projection = {"restaurant_id" : 1, "name":1,"borough":1,"cuisine" :1}
+    const all_docs =  await collection.find(query,{projection}).count();
+    return(all_docs)
+},
+// 22. Write a MongoDB query to find the restaurant Id, name, and grades for those restaurants
+//  which achieved a grade of "A" and 
+// scored 11 on an ISODate "2014-08-11T00:00:00Z" among many of survey dates..
+find_asked12:async(db)=>{
+    const collection = db.collection("restaurants");
+    let query = {"grades.grade":"A","grades.score":{$eq:11},"grades.date":new Date('2014-08-11T00:00:00Z')}
+    let projection = {"restaurant_id" : 1, "name":1,"grades":1}
+    const all_docs =  await collection.find(query,{projection}).count();
+    return(all_docs)
+},
+// 23. Write a MongoDB query to find the restaurant Id, name and grades for those restaurants 
+// where the 2nd element of grades 
+// array contains a grade of "A" and score 9 on an ISODate "2014-08-11T00:00:00Z".
+find_asked13:async(db)=>{
+    const collection = db.collection("restaurants");
+    let query = {"grades.1.grade":"A","grades.score":{$eq:9},"grades.date":new Date('2014-08-11T00:00:00Z')}
+    let projection = {"restaurant_id" : 1, "name":1,"grades":1}
+    const all_docs =  await collection.find(query,{projection}).count();
+    return(all_docs)
+},
+// 24. Write a MongoDB query to find the restaurant Id, name, address and geographical
+//  location for those restaurants where
+//  2nd element of coord array contains a value which is more than 42 and upto 52..
+find_asked14:async(db)=>{
+    const collection = db.collection("restaurants");
+    let query = {"address.coord.1":{$gte:42,$lte:52}}
+    let projection = {"restaurant_id" : 1, "name":1,"address":1,'coord':1}
+    const all_docs =  await collection.find(query,{projection}).count();
+    return(all_docs)
+},
+//  25.Write a MongoDB query to arrange the name of the restaurants in ascending order along with all the columns.
+find_asked15:async(db)=>{
+    const collection = db.collection("restaurants");
+    let query = {}
+    let projection = {}
+    const all_docs =  await collection.find(query,{projection}).sort({name:1}).toArray();
+    return(all_docs)
+
+},
+// 26. Write a MongoDB query to arrange the name of the restaurants in descending along with all the columns.
+find_asked16:async(db)=>{
+    const collection = db.collection("restaurants");
+    let query = {}
+    let projection = {}
+    const all_docs =  await collection.find(query,{projection}).sort({name:-1}).toArray();
+    return(all_docs)
+
 }
-
-
-
-
-
 
 
 
