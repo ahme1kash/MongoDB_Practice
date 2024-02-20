@@ -257,8 +257,243 @@ find_asked16:async(db)=>{
     const all_docs =  await collection.find(query,{projection}).sort({name:-1}).toArray();
     return(all_docs)
 
-}
+},
+// 27. Write a MongoDB query to arranged the name of the cuisine in ascending order
+//  and for that same cuisine borough should be in descending order.
+find_asked17:async(db)=>{
+    const collection = db.collection("restaurants")
+    let query = {}
+    let projection = {}
+    const all_docs = await collection.find(query,{projection}).sort({name:1,borough:-1}).toArray()
+    return all_docs
+},
+// 28. Write a MongoDB query to know whether all the addresses contains the street or not.
 
+find_asked18:async(db)=>{
+    const collection = db.collection("restaurants")
+    let query = {"address.street":{$exists:true }} 
+    let projection = {}
+    const all_docs = await collection.find(query,{projection}).toArray()
+    return all_docs
+},
+
+// 29 . Write a MongoDB query which will select all documents in the restaurants 
+// collection where the coord field value is Double.
+find_asked19:async(db)=>{
+    const collection = db.collection("restaurants")
+    let query = {"address.coord":{$type:"double" }} 
+    let projection = {}
+    const all_docs = await collection.find(query,{projection}).toArray()
+    return all_docs
+},
+// 30. Write a MongoDB query which will select the restaurant Id, name and grades for those restaurants
+//  which returns 0 as a remainder after dividing the score by 7.
+find_asked20:async(db)=>{
+    const collection = db.collection("restaurants")
+    let query = {"grades.score":{$mod:[7,0]}} 
+    let projection = {restaurant_id:1,name:1,grades:1}
+    const all_docs = await collection.find(query,{projection}).toArray()
+    return all_docs
+},
+
+// 31. Write a MongoDB query to find the restaurant name, borough, longitude and latitude and cuisine for those
+//  restaurants which contains 'mon' as three letters somewhere in its name.
+find_asked21:async(db)=>{
+    const collection = db.collection("restaurants")
+    let query = {name:{$regex:/mon/}}
+    let projection = {borough:1,name:1,'address.coord':1,cuisine:1}
+    const all_docs = await collection.find(query,{projection}).toArray()
+    return all_docs
+},
+//32. Write a MongoDB query to find the restaurant name,
+//  borough, longitude and latitude and cuisine for those restaurants 
+// which contain 'Mad' as first three letters of its name.
+
+find_asked22:async(db)=>{
+    const collection = db.collection("restaurants")
+    let query = {name:{$regex:/^Mad/}}
+    let projection = {borough:1,name:1,'address.coord':1,cuisine:1}
+    const all_docs = await collection.find(query,{projection}).toArray()
+    return all_docs
+},
+// 33. Write a MongoDB query to find the restaurants
+//  that have at least one grade with a score of less than 5.
+find_asked23:async(db)=>{
+    const collection = db.collection("restaurants")
+    let query = {'grades.score':{$lt:5}}
+    let projection = {}
+    const all_docs = await collection.find(query,{projection}).toArray()
+    return all_docs
+},
+
+// 34. Write a MongoDB query to find the restaurants that have at least one grade with a score
+//  of less than 5 and that are located in the borough of Manhattan.
+find_asked24:async(db)=>{
+    const collection = db.collection("restaurants")
+    let query = {$and:[{'grades.score':{$lt:5}},{borough:"Manhattan"}]}
+    let projection = {}
+    const all_docs = await collection.find(query,{projection}).count()
+    return all_docs
+},
+// 35. Write a MongoDB query to find the restaurants that have at least one grade with a score of
+//  less than 5 and that are located in the borough of Manhattan or Brooklyn.
+
+find_asked25:async(db)=>{
+    const collection = db.collection("restaurants")
+    let query = {$and:[{'grades.score':{$lt:5}},{borough:{$in:["Manhattan","Brooklyn"]}}]}
+    let projection = {}
+    const all_docs = await collection.find(query,{projection}).count()
+    return all_docs
+},
+// 36. Write a MongoDB query to find the restaurants that have at least one grade
+//  with a score of less than 5 and that are located in the borough
+//  of Manhattan or Brooklyn, and their cuisine is not American.
+find_asked26:async(db)=>{
+    const collection = db.collection("restaurants")
+    let query = {$and:[{'grades.score':{$lt:5}},{borough:{$in:["Manhattan","Brooklyn"]}},{cuisine:{$ne:"American"}}]}
+    let projection = {}
+    const all_docs = await collection.find(query,{projection}).count()
+    return all_docs
+},
+// 37. Write a MongoDB query to find the restaurants that have at least one grade
+//  with a score of less than 5 and that are located in the borough of Manhattan or Brooklyn,
+//  and their cuisine is not American or Chinese.
+find_asked27:async(db)=>{
+    const collection = db.collection("restaurants")
+    let query = {$and:[{'grades.score':{$lt:5}},{borough:{$in:["Manhattan","Brooklyn"]}},{cuisine:{$in:["American","Chinese"]}}]}
+    let projection = {}
+    const all_docs = await collection.find(query,{projection}).count()
+    return all_docs
+},
+// 38. Write a MongoDB query to find the restaurants that have a grade 
+// with a score of 2 and a grade with a score of 6.
+
+find_asked28:async(db)=>{
+    const collection = db.collection("restaurants")
+    let query = {$and:[{'grades.score':{$eq:2}},{'grades.score':{$eq:6}}]}
+    let projection = {}
+    const all_docs = await collection.find(query,{projection}).toArray()
+    return all_docs
+},
+// 39. Write a MongoDB query to find the restaurants that have a grade with a score of 2 and a grade
+//  with a score of 6 and are located in the borough of Manhattan.
+find_asked29:async(db)=>{
+    const collection = db.collection("restaurants")
+    let query = {$and:[{'grades.score':{$eq:2}},{'grades.score':{$eq:6}},{borough:"Manhattan"}]}
+    let projection = {}
+    const all_docs = await collection.find(query,{projection}).toArray()
+    return all_docs
+},
+// 40. Write a MongoDB query to find the restaurants 
+// that have a grade with a score of 2 and a grade with a score of 6 and are 
+// located in the borough of Manhattan or Brooklyn.
+find_asked30:async(db)=>{
+    const collection = db.collection("restaurants")
+    // let query = {$and:[{'grades.score':{$eq:2}},{'grades.score':{$eq:6}},{$or:[{borough:"Manhattan"},{borough:"Brooklyn"}]}]}
+    let query = {$and:[{'grades.score':{$eq:2}},{'grades.score':{$eq:6}},{borough:{$in:["Manhattan","Brooklyn"]}}]}
+    let projection = {}
+    const all_docs = await collection.find(query,{projection}).toArray()
+    return all_docs
+},
+// 41. Write a MongoDB query to find the restaurants that have a grade 
+// with a score of 2 and a grade with a score of 6 and are located in the
+//  borough of Manhattan or Brooklyn, and their cuisine is not American.
+find_asked31:async(db)=>{
+    const collection = db.collection("restaurants")
+    let query = {$and:[{'grades.score':{$eq:2}},{'grades.score':{$eq:6}},{borough:{$in:["Manhattan","Brooklyn"]}},{cuisine:{$ne:"American"}}]}
+    let projection = {}
+    const all_docs = await collection.find(query,{projection}).toArray()
+    return all_docs
+},
+// 42. Write a MongoDB query to find the restaurants that have a grade 
+// with a score of 2 and a grade with a score of 6 and are located
+//  in the borough of Manhattan or Brooklyn, and their cuisine is not American or Chinese.
+
+find_asked32:async(db)=>{
+    const collection = db.collection("restaurants")
+    let query = {$and:[{'grades.score':{$eq:2}},{'grades.score':{$eq:6}},{borough:{$in:["Manhattan","Brooklyn"]}},{cuisine:{$nin:["American","Chinese"]}}]}
+    let projection = {}
+    const all_docs = await collection.find(query,{projection}).count()
+    return all_docs
+},
+
+// 43. Write a MongoDB query to find the restaurants that have a grade with a score of 2 or a grade with a score of 6.
+find_asked33:async(db)=>{
+    const collection = db.collection("restaurants")
+    let query = {$or:[{'grades.score':{$eq:2}},{'grades.score':{$eq:6}}]}
+    let projection = {}
+    const all_docs = await collection.find(query,{projection}).toArray()
+    return all_docs
+},
+// 44. Write a MongoDB query to find the restaurants that have a grade with a score of 2 or
+//  a grade with a score of 6 and are located in the borough of Manhattan.
+find_asked34:async(db)=>{
+    const collection = db.collection("restaurants")
+    let query = {$or:[{'grades.score':{$eq:2}},{'grades.score':{$eq:6}}],borough:"Manhattan"}
+    let projection = {}
+    const all_docs = await collection.find(query,{projection}).toArray()
+    return all_docs
+},
+// 45. Write a MongoDB query to find the restaurants that have a grade with 
+// a score of 2 or a grade with a score of 6 and are
+//  located in the borough of Manhattan or Brooklyn.
+
+find_asked35:async(db)=>{
+    const collection = db.collection("restaurants")
+    let query = {$or:[{'grades.score':{$eq:2}},{'grades.score':{$eq:6}}],borough:{$in:["Manhattan","Brooklyn"]}}
+    let projection = {}
+    const all_docs = await collection.find(query,{projection}).toArray()
+    return all_docs
+},
+// 46. Write a MongoDB query to find the restaurants that have a grade with 
+// a score of 2 or a grade with a score of 6 and are
+//  located in the borough of Manhattan or Brooklyn, and their cuisine is not American.
+find_asked36:async(db)=>{
+    const collection = db.collection("restaurants")
+    let query = {$or:[{'grades.score':{$eq:2}},{'grades.score':{$eq:6}}],borough:{$in:["Manhattan","Brooklyn"]},cuisine:{$ne:"American"}}
+    let projection = {}
+    const all_docs = await collection.find(query,{projection}).toArray()
+    return all_docs
+},
+// 47. Write a MongoDB query to find the restaurants that have a grade with a score of 2 or a grade
+//  with a score of 6 and are located in the borough of Manhattan or Brooklyn,
+//  and their cuisine is not American or Chinese.
+find_asked37:async(db)=>{
+    const collection = db.collection("restaurants")
+    let query = {$or:[{'grades.score':{$eq:2}},{'grades.score':{$eq:6}}],borough:{$in:["Manhattan","Brooklyn"]},cuisine:{$nin:["American","Chinese"]}}
+    let projection = {}
+    const all_docs = await collection.find(query,{projection}).toArray()
+    return all_docs
+},
+// 48. Write a MongoDB query to find the restaurants that have all grades with a score greater than 5. --Good Question
+
+find_asked38:async(db)=>{
+    const collection = db.collection("restaurants")
+    let query = {"grades":{$not:{$elemMatch:{"score": {$lte: 5}}}}}
+    let projection = {}
+    const all_docs = await collection.find(query,{projection}).toArray()
+    return all_docs
+},
+
+// 49. Write a MongoDB query to find the restaurants that have all grades
+//  with a score greater than 5 and are located in the borough of Manhattan.
+
+find_asked39:async(db)=>{
+    const collection = db.collection("restaurants")
+    let query = {"grades":{$not:{$elemMatch:{"score": {$lte: 5}}}},borough:"Manhattan"}
+    let projection = {}
+    const all_docs = await collection.find(query,{projection}).toArray()
+    return all_docs
+},
+// 50. Write a MongoDB query to find the restaurants that have all grades with a score greater
+//  than 5 and are located in the borough of Manhattan or Brooklyn.
+find_asked40:async(db)=>{
+    const collection = db.collection("restaurants")
+    let query = {"grades":{$not:{$elemMatch:{"score": {$lte: 5}}}},$or:[{borough:"Manhattan"},{borough:"Brooklyn"}]}
+    let projection = {}
+    const all_docs = await collection.find(query,{projection}).toArray()
+    return all_docs
+},
 
 
 }
