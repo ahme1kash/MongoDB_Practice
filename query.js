@@ -17,7 +17,7 @@ find_borough:async(db)=>{
     const collection = db.collection("restaurants")
     let query = {name: 'Corner Bistro'};
     let projection = {'borough':1,'cuisine':1}
-    const all_docs =  await collection.find(query,{projection}).count();
+    const all_docs =  await collection.find(query,{projection}).toArray();
     return(all_docs)
 },
 // Write a MongoDB query to display the fields restaurant_id, name, borough and cuisine, 
@@ -120,7 +120,7 @@ find_asked2:async(db)=>{
     const collection = db.collection("restaurants")
     let query = {"cuisine":{$ne:"American"},"grades.grade":'A',borough:{$ne:"Brooklyn"}};
     let projection = {}
-    const all_docs =  await collection.find(query,{projection}).count();
+    const all_docs =  await collection.find(query,{projection}).toArray();
     return(all_docs)
 },
 // 14. Write a MongoDB query to find the restaurant Id, name, borough and cuisine
@@ -207,7 +207,7 @@ find_asked11:async(db)=>{
     const collection = db.collection("restaurants");
     let query = {cuisine:{$nin:["American",'Chinese']}}
     let projection = {"restaurant_id" : 1, "name":1,"borough":1,"cuisine" :1}
-    const all_docs =  await collection.find(query,{projection}).count();
+    const all_docs =  await collection.find(query,{projection}).toArray();
     return(all_docs)
 },
 // 22. Write a MongoDB query to find the restaurant Id, name, and grades for those restaurants
@@ -217,7 +217,7 @@ find_asked12:async(db)=>{
     const collection = db.collection("restaurants");
     let query = {"grades.grade":"A","grades.score":{$eq:11},"grades.date":new Date('2014-08-11T00:00:00Z')}
     let projection = {"restaurant_id" : 1, "name":1,"grades":1}
-    const all_docs =  await collection.find(query,{projection}).count();
+    const all_docs =  await collection.find(query,{projection}).toArray();
     return(all_docs)
 },
 // 23. Write a MongoDB query to find the restaurant Id, name and grades for those restaurants 
@@ -227,7 +227,7 @@ find_asked13:async(db)=>{
     const collection = db.collection("restaurants");
     let query = {"grades.1.grade":"A","grades.score":{$eq:9},"grades.date":new Date('2014-08-11T00:00:00Z')}
     let projection = {"restaurant_id" : 1, "name":1,"grades":1}
-    const all_docs =  await collection.find(query,{projection}).count();
+    const all_docs =  await collection.find(query,{projection}).toArray();
     return(all_docs)
 },
 // 24. Write a MongoDB query to find the restaurant Id, name, address and geographical
@@ -237,7 +237,7 @@ find_asked14:async(db)=>{
     const collection = db.collection("restaurants");
     let query = {"address.coord.1":{$gte:42,$lte:52}}
     let projection = {"restaurant_id" : 1, "name":1,"address":1,'coord':1}
-    const all_docs =  await collection.find(query,{projection}).count();
+    const all_docs =  await collection.find(query,{projection}).toArray();
     return(all_docs)
 },
 //  25.Write a MongoDB query to arrange the name of the restaurants in ascending order along with all the columns.
@@ -332,7 +332,7 @@ find_asked24:async(db)=>{
     const collection = db.collection("restaurants")
     let query = {$and:[{'grades.score':{$lt:5}},{borough:"Manhattan"}]}
     let projection = {}
-    const all_docs = await collection.find(query,{projection}).count()
+    const all_docs = await collection.find(query,{projection}).toArray()
     return all_docs
 },
 // 35. Write a MongoDB query to find the restaurants that have at least one grade with a score of
@@ -342,7 +342,7 @@ find_asked25:async(db)=>{
     const collection = db.collection("restaurants")
     let query = {$and:[{'grades.score':{$lt:5}},{borough:{$in:["Manhattan","Brooklyn"]}}]}
     let projection = {}
-    const all_docs = await collection.find(query,{projection}).count()
+    const all_docs = await collection.find(query,{projection}).toArray()
     return all_docs
 },
 // 36. Write a MongoDB query to find the restaurants that have at least one grade
@@ -352,7 +352,7 @@ find_asked26:async(db)=>{
     const collection = db.collection("restaurants")
     let query = {$and:[{'grades.score':{$lt:5}},{borough:{$in:["Manhattan","Brooklyn"]}},{cuisine:{$ne:"American"}}]}
     let projection = {}
-    const all_docs = await collection.find(query,{projection}).count()
+    const all_docs = await collection.find(query,{projection}).toArray()
     return all_docs
 },
 // 37. Write a MongoDB query to find the restaurants that have at least one grade
@@ -362,7 +362,7 @@ find_asked27:async(db)=>{
     const collection = db.collection("restaurants")
     let query = {$and:[{'grades.score':{$lt:5}},{borough:{$in:["Manhattan","Brooklyn"]}},{cuisine:{$in:["American","Chinese"]}}]}
     let projection = {}
-    const all_docs = await collection.find(query,{projection}).count()
+    const all_docs = await collection.find(query,{projection}).toArray()
     return all_docs
 },
 // 38. Write a MongoDB query to find the restaurants that have a grade 
@@ -413,7 +413,7 @@ find_asked32:async(db)=>{
     const collection = db.collection("restaurants")
     let query = {$and:[{'grades.score':{$eq:2}},{'grades.score':{$eq:6}},{borough:{$in:["Manhattan","Brooklyn"]}},{cuisine:{$nin:["American","Chinese"]}}]}
     let projection = {}
-    const all_docs = await collection.find(query,{projection}).count()
+    const all_docs = await collection.find(query,{projection}).toArray()
     return all_docs
 },
 
