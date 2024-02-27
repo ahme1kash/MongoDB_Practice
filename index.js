@@ -64,7 +64,19 @@ async function connectDb(){
         // console.log(await Mongo_Queries.find_asked37(db))
         // console.log(await Mongo_Queries.find_asked38(db))
         // console.log(await Mongo_Queries.find_asked39(db))
-        console.log(await Mongo_Queries.find_asked40(db))
+        // console.log(await Mongo_Queries.find_asked40(db))
+        // console.log(await Mongo_Queries.find_asked41(db))
+        // console.log(await Mongo_Queries.find_asked42(db))
+        // console.log(await Mongo_Queries.find_asked43(db))
+        // console.log(await Mongo_Queries.find_asked44(db))
+        // console.log(await Mongo_Queries.find_asked45(db))
+        // console.log(await Mongo_Queries.find_asked46(db))
+        // console.log(await Mongo_Queries.find_asked47(db))
+        // console.log(await Mongo_Queries.find_asked48(db))
+        // console.log(await Mongo_Queries.find_asked_(db))
+        // console.log(await Mongo_Queries.find_asked49(db))
+        // console.log(await Mongo_Queries.find_asked50(db))
+        console.log(await Mongo_Queries.find_asked51(db))
 
        
 

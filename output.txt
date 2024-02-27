@@ -1,0 +1,3238 @@
+Name:West 79Th Street Boat Basin Cafe,Score:36
+Name:Murals On 54/Randolphs'S,Score:33.666666666666664
+Name:Victoria Pizza,Score:30.8
+Name:Nanni Restaurant,Score:32.142857142857146
+Name:Live Bait Bar & Restaurant,Score:32.6
+Name:Billy'S Sport Bar Restaurant & Lounge,Score:30.6
+Name:La Candela Espanola,Score:30
+Name:Trinidad Golden Place,Score:30.8
+Name:Seo Japanese Restaurant,Score:29.8
+Name:Pho Bang Restaurant,Score:27.833333333333332
+Name:Modern Gourmet,Score:27.833333333333332
+Name:B.B. Kings,Score:28.428571428571427
+Name:Pelham Bay Diner,Score:27.833333333333332
+Name:Tobacco Road,Score:29.833333333333332
+Name:Two Boots Grand Central,Score:27
+Name:Hop Won Express,Score:26.5
+Name:Los Papis Restaurant,Score:26.666666666666668
+Name:Johnny'S O'S,Score:28
+Name:Nueva Villa China Restaurant,Score:26
+Name:Udon West,Score:26.2
+Name:Greenwich Village Bistro,Score:25.833333333333332
+Name:May May Kitchen,Score:27.6
+Name:Mesivta Eitz Chaim,Score:25.5
+Name:E-Dah Korean Bbq Lounge,Score:25
+Name:Tacos Mexico,Score:24.428571428571427
+Name:Del Corso Pizzeria,Score:24.2
+Name:Sushi Damo,Score:24.333333333333332
+Name:Miyagi Japanese Home Cooking,Score:24.166666666666668
+Name:Monte'S,Score:24.5
+Name:Gandhi,Score:24.142857142857142
+Name:Sharaku Japanese Restaurant,Score:24
+Name:Kosher Delight,Score:24.166666666666668
+Name:Don Pedro Restaurant,Score:23.8
+Name:Times Deli & Cafe,Score:23.571428571428573
+Name:Coppola'S,Score:23.5
+Name:Bella Napoli,Score:23.6
+Name:Tong Hai Tung Bakery,Score:23.428571428571427
+Name:Esperanto,Score:24
+Name:Rio Dela Plata Bakery,Score:23.4
+Name:Soda Bar,Score:23.166666666666668
+Name:Cafe Asean,Score:23
+Name:Michelle'S Cocktail Lounge,Score:23.333333333333332
+Name:Usa Diner,Score:23
+Name:Chelsea Square Restaurant,Score:22.714285714285715
+Name:Wu Liang Ye Restaurant,Score:22.833333333333332
+Name:Harlem Bar-B-Q,Score:22.75
+Name:Acqua,Score:22.5
+Name:El Molino Rojo Restaurant,Score:22.625
+Name:Hornado Ecuatoriano,Score:22.615384615384617
+Name:Maya,Score:24
+Name:Down Town Association,Score:22.2
+Name:New Victory Restaurant,Score:22.25
+Name:Cafe Espanol,Score:23.5
+Name:Cha Cha'S Backyard Garden Bar & Cafe,Score:22
+Name:Columbus Gourmet Food,Score:23.333333333333332
+Name:Downtown Bakery Ii Mexican Food,Score:21.666666666666668
+Name:Tomoe Sushi,Score:22
+Name:Village Yokocho,Score:21.6
+Name:Como Pizza,Score:21.5
+Name:Water'S Edge Club,Score:21.5
+Name:Hanson Gourmet Deli & Cafe,Score:21.5
+Name:Tota'S,Score:23.2
+Name:Lincoln Plaza Cinemas,Score:21.5
+Name:Dojo Restaurant,Score:21.5
+Name:El Salvador Restaurant,Score:21.8
+Name:La Cabana Jarabacoa Restaurant,Score:21.5
+Name:Dynasty,Score:21.4
+Name:La Caridad 78,Score:21.2
+Name:Pasquale Rigoletto Restaurant,Score:21.4
+Name:El Rumbero Bar Restaurant,Score:21.2
+Name:Acappella Restaurant,Score:21.166666666666668
+Name:Rosa'S Pizza,Score:21.166666666666668
+Name:Capri Ii Pizza,Score:21
+Name:Tout Va Bien,Score:21.5
+Name:Crystal Palace,Score:22.4
+Name:United Grocery & Deli,Score:21.166666666666668
+Name:525 Lex Restaurant & Bar,Score:20.833333333333332
+Name:Lichee Nut,Score:20.75
+Name:Manna House,Score:20.833333333333332
+Name:Italian Village Restaurant Pizzeria,Score:21
+Name:Red Star Chinese Restaurant,Score:20.666666666666668
+Name:El Azteca Mexican Restaurant,Score:20.666666666666668
+Name:Tequilla Sunrise,Score:20.666666666666668
+Name:Doc Wine Bar,Score:20.6
+Name:Alfonso'S Bar,Score:20.6
+Name:City Crab,Score:20.5
+Name:Il Vagabondo Restaurant,Score:20.5
+Name:Da Marino Restaurant,Score:20.5
+Name:Kum Gang San,Score:21
+Name:Iron Chef House,Score:20.4
+Name:Fortunato Bros Cafe & Bakery,Score:20.714285714285715
+Name:Tatiana Restaurant,Score:20.4
+Name:Japan Airlines Lounge,Score:20.5
+Name:Holland Bar,Score:20.4
+Name:Vin Et Fleurs,Score:20.4
+Name:Reynold'S Bar,Score:20.285714285714285
+Name:Anyway Cafe Bar,Score:20.333333333333332
+Name:New Roma Pizza,Score:20.333333333333332
+Name:Good Enough To Eat (A.G. Bistro),Score:20.25
+Name:Curves Gentleman'S Club,Score:20.25
+Name:Yama Japanese Restaurant',Score:20.25
+Name:Caffe Dante,Score:20.25
+Name:Mugs Ale House Bar,Score:20.2
+Name:Hi Fi,Score:20
+Name:Ess-A-Bagel,Score:20.2
+Name:Central Cafe,Score:20.166666666666668
+Name:Los Angeles Bakery,Score:20
+Name:Russian Turkish Baths,Score:20.25
+Name:Mr. Wonton,Score:20
+Name:200 Fifth Avenue Restaurant & Sports Bar,Score:19.833333333333332
+Name:Bel-Aire Diner,Score:20
+Name:Webster Cafe,Score:19.857142857142858
+Name:15 East Restaurant,Score:19.833333333333332
+Name:Bello Giardino,Score:19.8
+Name:Wembley Athletic Club,Score:19.75
+Name:Cafe Volna,Score:19.75
+Name:Jj Peabody'S,Score:19.8
+Name:La Isla,Score:20
+Name:Vincent'S Pizzeria,Score:19.666666666666668
+Name:7Th Avenue Donut Shop,Score:19.6
+Name:East Japanese Restaurant/ Bar,Score:19.6
+Name:New Leaf Cafe,Score:19.6
+Name:Kanes Deli Diner,Score:19.5
+Name:Sharmel Caterers,Score:19.5
+Name:Piaxtla Es Mexico Deli,Score:19.5
+Name:Roma View Catering,Score:19.5
+Name:El Lina Restaurant,Score:19.428571428571427
+Name:Brooklyn Moon Cafe,Score:19.4
+Name:Jackson House Restaurant,Score:19.4
+Name:Mamoun Falafel,Score:19.4
+Name:Hooters,Score:19.4
+Name:Naim Kosher Pizza,Score:19.4
+Name:Fresco,Score:19.4
+Name:Gary And Gino'S,Score:19.333333333333332
+Name:Ray'S Candy Store,Score:19.333333333333332
+Name:Woo Chon Restaurant,Score:19.25
+Name:Winnie'S Bar,Score:19.25
+Name:Planet Sushi,Score:19.25
+Name:Bamboo Garden Restaurant,Score:19.2
+Name:Lily'S Bar @ Roger Smith Hotel,Score:19.2
+Name:Schick'S Manor,Score:19.2
+Name:Lopez'S Pizzeria And Coffee Shop,Score:19.166666666666668
+Name:Hot Bagels,Score:19.166666666666668
+Name:Curry In A Hurry,Score:19.142857142857142
+Name:Via Italia Ristorante,Score:19
+Name:Harmonie Club,Score:19.75
+Name:Latino Restaurant,Score:19.75
+Name:Mary Ann'S,Score:19
+Name:Erawan Thai Cuisine,Score:19
+Name:Marchis Restaurant,Score:19
+Name:J & M Bakery,Score:19
+Name:Namudol,Score:19
+Name:Cafe Un Deux Trois,Score:18.857142857142858
+Name:La Parisienne Diner,Score:18.857142857142858
+Name:Last Stop Restaurant,Score:18.833333333333332
+Name:Jimmy Max Restaurant,Score:19
+Name:Cafe Duke,Score:18.833333333333332
+Name:Garden Of Eat-In,Score:18.833333333333332
+Name:Comic Strip,Score:18.8
+Name:Auction House,Score:18.8
+Name:Trattoria Pesce Pasta,Score:18.8
+Name:Hop Kee Restaurant,Score:18.8
+Name:Star Lite Deli,Score:19
+Name:Pinocchio Ristorante,Score:18.8
+Name:The Ranch Restaurant & Bar Of Guyana,Score:18.8
+Name:Famous Ben'S Pizza Of Soho,Score:18.8
+Name:San Soo Kap San,Score:18.833333333333332
+Name:La Palapa,Score:18.75
+Name:Happy Restaurant,Score:18.666666666666668
+Name:Santoor Indian Restaurant,Score:18.571428571428573
+Name:Plum Tomatoes Pizzeria & Restaurant,Score:18.5
+Name:The Village Lantern,Score:18.6
+Name:Nix Mix Coffee Shop,Score:18.714285714285715
+Name:Richer'S Bakery,Score:18.5
+Name:Sapphire Indian Cuisine,Score:18.5
+Name:Dyckman Express Restaurant,Score:18.5
+Name:Hector'S Cafe & Diner,Score:18.4
+Name:Crystal Curry House,Score:18.75
+Name:Dock Street Bar & Grill,Score:18.4
+Name:Sushiden,Score:18.363636363636363
+Name:Cherry Tavern,Score:18.333333333333332
+Name:The Esplanade,Score:18.333333333333332
+Name:1020 Bar,Score:18.333333333333332
+Name:Quick Stop Restaurant,Score:18.333333333333332
+Name:Rubens Pizzeria-El Pollo Peruvian Cuisine,Score:18.285714285714285
+Name:Il Postino,Score:18.25
+Name:Gun Post Lanes Snack Bar,Score:18.333333333333332
+Name:Legend'S Pub,Score:18.25
+Name:Tony'S Pizzeria & Restaurant,Score:18.25
+Name:Enzo Cafe,Score:18.2
+Name:Death & Co,Score:18.166666666666668
+Name:Fuji Bakery,Score:18.375
+Name:Franco Bakery,Score:18.166666666666668
+Name:Rohm Thai,Score:18.166666666666668
+Name:The River Club,Score:18
+Name:Jules Bistro,Score:18
+Name:Gente,Score:18
+Name:American Airlines Employee Cafeteria,Score:18
+Name:Golden Pizza,Score:18.166666666666668
+Name:Dagan Pizza & Dairy Restaurant,Score:18
+Name:Bobby'S Coffee Shop,Score:18
+Name:Lee'S Villa Chinese Restaurant,Score:18
+Name:St Lucian Paradise,Score:18
+Name:Apollo Bakery,Score:18
+Name:John & Joe Pizzeria & Restaurant,Score:18
+Name:Iguanas,Score:18.25
+Name:Crown Diner,Score:18
+Name:Kosher Hut Of Brooklyn,Score:18
+Name:Ben Ash Delicatessen,Score:17.833333333333332
+Name:Bread,Score:17.833333333333332
+Name:Gnocco,Score:17.8
+Name:Rino'S,Score:17.8
+Name:Chef Ho'S,Score:17.8
+Name:Agave,Score:17.8
+Name:Mediterraneo,Score:17.8
+Name:Piadina Restaurant,Score:17.8
+Name:Jimmy Ryan'S,Score:17.8
+Name:Van Dam Diner,Score:17.857142857142858
+Name:Tov Kosher Kitchen,Score:17.75
+Name:Notaro Restaurant,Score:17.75
+Name:El Chivito D'Oro Iii,Score:17.8
+Name:Scorpio,Score:17.666666666666668
+Name:Yip'S,Score:17.666666666666668
+Name:West 53Rd Gourmet Deli,Score:17.666666666666668
+Name:Pete'S Clam Stop,Score:17.666666666666668
+Name:Wilbel Pizza,Score:17.666666666666668
+Name:Vesuvio Restaurant & Pizza,Score:17.666666666666668
+Name:Academy Restauraunt,Score:17.6
+Name:Volare Restaurant,Score:17.6
+Name:Rego Park Cafe,Score:17.6
+Name:Los Arrieros Restaurant,Score:17.6
+Name:Nectar Of 82Nd Street,Score:17.6
+Name:El Hornero Bakery,Score:17.6
+Name:Happy Fortune Ii,Score:17.571428571428573
+Name:Burger King/Metro Mall,Score:17.571428571428573
+Name:Market Restaurant (C-D Block),Score:17.5
+Name:T-Bone Diner,Score:17.5
+Name:Killarney'S Pub,Score:17.5
+Name:The Heights Bar & Grill,Score:17.5
+Name:Joe'S Shanghai Restaurant,Score:17.46153846153846
+Name:Jardin De China Rest,Score:17.428571428571427
+Name:Bella Blu,Score:17.4
+Name:World Cup Cafe,Score:17.375
+Name:Back To Nature,Score:17.333333333333332
+Name:Nicky'S Pizza,Score:18
+Name:Kang Suh Korean Restaurant,Score:17.333333333333332
+Name:La Piazza Pizzeria & Restaurant,Score:17.333333333333332
+Name:Los Amigos Mexican Restaurant,Score:17.285714285714285
+Name:Bocca,Score:17.285714285714285
+Name:Moonstruck East,Score:17.285714285714285
+Name:New Dyker Restaurant,Score:17.333333333333332
+Name:Stuyvesant Yacht Club,Score:17.25
+Name:Mcdwyers Pub,Score:17.2
+Name:Estelle,Score:17.25
+Name:Texas Rotisserie,Score:17.6
+Name:Maries Crisis Cafe,Score:17.2
+Name:New Ruan'S Restaurant,Score:17.2
+Name:Sahara East Restaurant,Score:17.166666666666668
+Name:Pepolino,Score:17.2
+Name:O'Hara'S,Score:17.25
+Name:El Vaquero Barras,Score:17.25
+Name:Li Greci'S Staaten Restaurant,Score:17
+Name:Brunos On The Boulevard,Score:17
+Name:La Sabrosura,Score:17
+Name:Minar Indian Restaurant,Score:17
+Name:New Kim'S Restaurant,Score:17
+Name:The Players Club,Score:17
+Name:Iguana Restaurant,Score:17
+Name:Moto,Score:17
+Name:Ciro Pizza,Score:17
+Name:Bourbon Street,Score:16.875
+Name:Vinny'S Of Carroll Garden Restaurant & Luncheonett,Score:17
+Name:Towne Cafe,Score:17
+Name:Karavas Pizza N Pita,Score:16.857142857142858
+Name:Grand Canyon,Score:17.166666666666668
+Name:The Magician,Score:16.8
+Name:Russian Samovar,Score:16.8
+Name:Casabianca Pizzeria,Score:16.8
+Name:D.B.A.,Score:17.166666666666668
+Name:Acquista Trattoria,Score:16.8
+Name:Cebu,Score:16.8
+Name:Jacque'S Cafe,Score:16.8
+Name:Gottscheer Hall,Score:16.8
+Name:Bocelli,Score:16.75
+Name:Gigi'S Pizzeria,Score:16.75
+Name:Underground Lounge,Score:16.75
+Name:P & S Deli Grocery,Score:16.75
+Name:Quality Cafe & Restaurant,Score:16.666666666666668
+Name:Ten Degrees Bistro,Score:16.666666666666668
+Name:Michael'S Restaurant,Score:16.727272727272727
+Name:Ginger'S Bar,Score:16.666666666666668
+Name:Jacks Ale House,Score:16.666666666666668
+Name:Neil Simon Theatre,Score:16.666666666666668
+Name:Broadway Restaurant,Score:16.6
+Name:Taka Hashi Restaurant,Score:16.6
+Name:Hotel Carlyle,Score:16.6
+Name:Red Bamboo,Score:16.8
+Name:Republic Restaurant,Score:16.6
+Name:Tony'S Pizza,Score:16.57894736842105
+Name:Faros Restaurant,Score:16.6
+Name:John & Tonys Pizza,Score:16.5
+Name:Restaurant Riki,Score:16.5
+Name:Han Bat Restaurant,Score:16.5
+Name:Novita,Score:16.5
+Name:Muldoons Bar,Score:16.5
+Name:Concourse Jamaican Bakery,Score:16.5
+Name:Mezcals Restaurant,Score:16.428571428571427
+Name:Tastee Corner,Score:16.428571428571427
+Name:Smiler'S,Score:16.4
+Name:Swing 46 Jazz And Supper Club,Score:16.4
+Name:Yankee Clipper,Score:16.4
+Name:Barracuda Bar,Score:16.5
+Name:Water Front Ale House,Score:16.4
+Name:Uncle Vanya,Score:16.4
+Name:Dunkin' Donuts/Baskin' Robbins,Score:16.4
+Name:Citrus Bar & Grill,Score:16.4
+Name:Giovanni'S Restaurant & Cafe,Score:16.4
+Name:Pho Hoai Bay Ridge,Score:16.4
+Name:Piccolo Angolo,Score:16.4
+Name:Olive Tree,Score:16.4
+Name:Pio Pio,Score:16.333333333333332
+Name:Ennju,Score:16.333333333333332
+Name:North Shore Diner,Score:16.333333333333332
+Name:Viand Cafe,Score:16.4
+Name:Shamrock Inn,Score:16.333333333333332
+Name:Piccola Venezia,Score:16.333333333333332
+Name:Arabelle,Score:16.6
+Name:My Mother'S Place,Score:16.25
+Name:Nino'S Restaurant,Score:16.333333333333332
+Name:View Lounge,Score:16.333333333333332
+Name:Wrap N Run Grill,Score:16.333333333333332
+Name:Polish National Home,Score:16.25
+Name:Da Mikelle Ii,Score:16.25
+Name:Schaffer'S Tavern,Score:16.25
+Name:Famous Famiglia Pizza,Score:16.2
+Name:Gaslight,Score:16.2
+Name:Barone Pizza,Score:16.2
+Name:Gemini'S Lounge,Score:16.25
+Name:Prospect Coffee Shop,Score:16.2
+Name:Villa Barone Manor,Score:16.2
+Name:Evergreen Restaurant,Score:16.333333333333332
+Name:Corato I Pizza & Restaurant,Score:16.2
+Name:Cafe Lalo,Score:16.2
+Name:Paneorama Bakery,Score:16.2
+Name:Stir Cafe,Score:16.166666666666668
+Name:Jackson Diner Indian Cuisine,Score:16.166666666666668
+Name:Bennie'S Thai Cafe,Score:16.166666666666668
+Name:Joey'S Place,Score:16.166666666666668
+Name:Knapp St Pizza,Score:16.142857142857142
+Name:Old Town Bar & Restaurant,Score:16
+Name:Marumi,Score:16
+Name:Little Vincent'S Pizza Restaurant,Score:16
+Name:Western Bakery,Score:16.166666666666668
+Name:Pepe Rosso To Go,Score:16
+Name:Tap-A-Keg,Score:16
+Name:Danny'S Pizzeria & Cafe,Score:16
+Name:Crystal Manor,Score:16
+Name:Miss Lily'S 7A,Score:16
+Name:Portobello Cafe,Score:16
+Name:Don Peppe,Score:16
+Name:Carom Cafe Billiards,Score:16
+Name:Pao,Score:16
+Name:Guy & Gallard,Score:16
+Name:El Buen Ambiente,Score:16
+Name:Paradise Manor,Score:16
+Name:Dyker Beach Golf (Grill Room),Score:16
+Name:Laguardia Courtyard Hotel By Marriott,Score:16
+Name:The Central Bar,Score:16
+Name:The Punch Bowl,Score:16
+Name:Cafe Champignon,Score:16
+Name:9024/Catering By Michael Schick Inc.,Score:16
+Name:Dinastia China,Score:16
+Name:Il Palazzo,Score:16.2
+Name:Cuccios Bakery,Score:16
+Name:J & R Pizza,Score:16
+Name:Latin Bakery,Score:16
+Name:Tai Pan Bakery,Score:15.928571428571429
+Name:Grand Hyatt New York Hotel,Score:16
+Name:Agra Restaurant,Score:15.833333333333334
+Name:Community Food And Juice,Score:15.857142857142858
+Name:Mcaleer'S Pub,Score:15.833333333333334
+Name:Joseph'S Ristorante,Score:15.833333333333334
+Name:Nino'S Pizza,Score:15.8
+Name:K'S Cafeteria,Score:15.833333333333334
+Name:Whaler Bar, Cafe Buon Giorno,Score:15.8
+Name:D & P Restaurant & Cocktail,Score:15.8
+Name:Ott Thai Cuisine,Score:15.8
+Name:Panda Kitchen,Score:15.8
+Name:Al Cholo Bakery,Score:15.8
+Name:Candies Bar,Score:15.8
+Name:Mr K'S Restaurant,Score:15.8
+Name:Barrow'S Pub,Score:15.75
+Name:Cibar - Lady Mendl'S Tea Salon,Score:15.75
+Name:Pizza Garden,Score:15.75
+Name:Souen Restaurant,Score:16
+Name:Delmonico Gourmet,Score:15.75
+Name:Bronx Grill,Score:15.75
+Name:Memories Lounge,Score:15.75
+Name:Jackie'S West Indian Bakery,Score:15.666666666666666
+Name:Spoon Bread Catering,Score:15.75
+Name:La Cabana Argentina,Score:15.666666666666666
+Name:Symposium Greek Restaurant,Score:15.666666666666666
+Name:The Library,Score:15.666666666666666
+Name:Pizza Park,Score:15.666666666666666
+Name:Noodle Cafe Zen,Score:15.666666666666666
+Name:Whitestone Lanes,Score:15.6
+Name:Havana Ny,Score:15.6
+Name:Shell Lanes,Score:15.6
+Name:Harry'S Burrito Junction,Score:15.714285714285714
+Name:B & M Hot Bagel & Grocery,Score:15.6
+Name:Garden Grill,Score:15.6
+Name:Hop Lee Kitchen,Score:15.6
+Name:The Old Time Vincent'S,Score:15.6
+Name:Gino'S Pizzeria Restaurant,Score:15.6
+Name:Everest Diner,Score:15.571428571428571
+Name:Jimbo'S Hamburger Place,Score:15.571428571428571
+Name:New York Dolls,Score:15.6
+Name:Restivo Ristorante,Score:15.571428571428571
+Name:Coyote Ugly,Score:15.5
+Name:Irish Cottage,Score:15.6
+Name:Nublu,Score:15.5
+Name:Tre Giovani Pizza & Pasta,Score:15.5
+Name:Izalco Restaurant,Score:15.5
+Name:Gotham Cafe (Inside Holiday Inn),Score:15.5
+Name:Scorpio Bar,Score:15.5
+Name:Phoenix Garden,Score:15.5
+Name:Usagi,Score:15.5
+Name:Topaze Restaurant,Score:15.5
+Name:Marbella Restaurant,Score:15.4
+Name:New Floridian Diner,Score:15.428571428571429
+Name:The Best Italian Pizza,Score:15.5
+Name:Scalini Fedeli,Score:15.4
+Name:Lenihan'S Saloon,Score:15.4
+Name:Friend'S Tavern,Score:15.4
+Name:Swifty'S,Score:15.5
+Name:Lolita'S Restaurant,Score:15.4
+Name:Rathbones Pub,Score:15.4
+Name:Chez Josephine,Score:15.4
+Name:Daniello'S Pizzeria,Score:15.4
+Name:Fiorentino Ristorante,Score:15.333333333333334
+Name:Veselka Restaurant,Score:15.333333333333334
+Name:Mansions Cater,Score:15.333333333333334
+Name:Mr Broadway Kosher Restaurant,Score:15.333333333333334
+Name:La Gourmet,Score:15.333333333333334
+Name:Georgios Country Grill,Score:15.333333333333334
+Name:Ramen-Ya,Score:15.4
+Name:Corner Cafe And Bakery,Score:15.333333333333334
+Name:City College Cafeteria,Score:15.333333333333334
+Name:Flagship Diner,Score:15.285714285714286
+Name:El Pote Espanol,Score:15.25
+Name:Mom'S Fried Chicken,Score:15.285714285714286
+Name:Dazies Restaurant,Score:15.25
+Name:Buddy'S Wonder Bar,Score:15.25
+Name:Uno Cafe & Billiards,Score:15.25
+Name:Serafina Fabulous Pizza,Score:15.25
+Name:Little Sal'S Italiano,Score:15.333333333333334
+Name:Emilio Iii Bar,Score:15.25
+Name:Cullen'S Tavern,Score:15.25
+Name:Frank'S Pizza,Score:15.2
+Name:Pizza Bagel Burger,Score:15.2
+Name:Cafe Bar,Score:15.2
+Name:Lite Delights,Score:15.2
+Name:El Cantinero,Score:15.2
+Name:Pho Bac Vietnamese Seafood Cuisine,Score:15.2
+Name:The Abbey Pub,Score:15.166666666666666
+Name:Ramonita'S Restaurant,Score:15.2
+Name:Chopstix Restaurant,Score:15.166666666666666
+Name:Rocco Pizza,Score:15.25
+Name:Caravan Of Dreams,Score:15.166666666666666
+Name:Roma Pizza,Score:15.142857142857142
+Name:Marina Cafe,Score:15
+Name:Galicia Restaurant,Score:15.142857142857142
+Name:Q.B.Comm.College-Main Kitchen/Tiger Bites Pizza Section,Score:15
+Name:Java Restaurant,Score:15
+Name:Trellis,Score:15.166666666666666
+Name:Oyster Bar,Score:15
+Name:La Mirabelle Restaurant,Score:15
+Name:Da Nico Restaurant,Score:15
+Name:Yakiniku West Restaurant,Score:15
+Name:Porto Prince Star Restaurant,Score:15
+Name:Wcou Radio / Tile Bar,Score:15
+Name:Golden Dove Diner,Score:15
+Name:Malecon Restaurant,Score:15
+Name:Arte Cafe,Score:15
+Name:Jack'S Pizza & Pasta,Score:15
+Name:Coral Diner,Score:15
+Name:Jewel Bako,Score:15
+Name:Westway Diner,Score:15
+Name:Peter'S Waterfront Ale House,Score:15
+Name:Peter Mcmanus,Score:15
+Name:Defonte'S Sandwich Shop,Score:15
+Name:Pyramid,Score:15
+Name:Lb Spumoni Gardens,Score:15
+Name:Terminal Cafe/Yankee Clipper,Score:15
+Name:Tsukushi Restaurant,Score:15
+Name:Park Plaza Restaurant,Score:15
+Name:Peculiar Pub,Score:15
+Name:Felix,Score:15
+Name:Primola Restaurant,Score:15
+Name:Pavillion Caterers,Score:15
+Name:Lorenzo & Maria'S,Score:15
+Name:Amnon Kosher Pizza,Score:14.857142857142858
+Name:Bassett Caterers,Score:14.857142857142858
+Name:Cafe Bravo,Score:14.857142857142858
+Name:Cheito Duran Deli Grocery,Score:14.857142857142858
+Name:La Nortena Express Restaurant,Score:14.857142857142858
+Name:Freddie & Pepper'S Pizza,Score:14.857142857142858
+Name:Prohibition,Score:15
+Name:Armando'S Pizza,Score:15
+Name:Golden Crown Bakery,Score:14.833333333333334
+Name:Front Street Pizza,Score:14.833333333333334
+Name:Carmine'S Restaurant,Score:14.833333333333334
+Name:Julius,Score:14.833333333333334
+Name:Munchtime,Score:14.833333333333334
+Name:Showman'S Cafe,Score:14.8
+Name:Riccardo'S,Score:14.8
+Name:Maurya Restaurant,Score:14.8
+Name:American Coffee Shop,Score:14.8
+Name:Lanza'S,Score:14.8
+Name:Sam'S Place,Score:14.8
+Name:Heartland Brewery,Score:14.8
+Name:The Great Burrito Mexican Kitchen,Score:14.8
+Name:Queens Coffee Shop,Score:14.8
+Name:Joe'S Place,Score:14.833333333333334
+Name:Alices,Score:14.8
+Name:Sizzler,Score:14.833333333333334
+Name:Bake And Things Restaurant,Score:14.75
+Name:Acme Bar & Grill,Score:14.75
+Name:Vaccaro'S Pizzeria & Trattoria,Score:14.75
+Name:Cascarino'S Pizza,Score:14.75
+Name:La Rivista Restaurant,Score:14.75
+Name:La Isla Restaurant,Score:14.75
+Name:Cavatappo Grill,Score:14.666666666666666
+Name:Grini'S Grill & Restaurant,Score:14.714285714285714
+Name:Antonio'S Pizza,Score:14.666666666666666
+Name:King Yum Restaurant,Score:14.666666666666666
+Name:Green Pavilion Restaurant & Sports Lounge,Score:14.625
+Name:Loduca'S Pizza,Score:14.6
+Name:Angry Wades,Score:14.8
+Name:East Of Eighth,Score:14.6
+Name:Mishima Restaurant,Score:14.6
+Name:Lucky Star Restaurant,Score:14.6
+Name:Botanica Bar,Score:14.6
+Name:Blue Note Jazz,Score:14.6
+Name:De Robertis Pastry Shop,Score:14.6
+Name:Highway Deli And Coffee Shop,Score:14.6
+Name:Randazzo Pizza Restaurant,Score:14.6
+Name:Million Deli,Score:14.6
+Name:Osteria Serafina,Score:14.571428571428571
+Name:Reliable Food,Score:14.6
+Name:Luigi'S Pizza & Restaurant,Score:14.5
+Name:Americas Restorante,Score:14.5
+Name:Perfecto Pizzeria,Score:14.5
+Name:Bagel Land,Score:14.5
+Name:Cafe Gitane,Score:14.5
+Name:P & K'S Grill,Score:14.5
+Name:Mariner Inn,Score:14.5
+Name:Fei Teng Bakery,Score:14.5
+Name:New Feng'S Garden,Score:14.428571428571429
+Name:New Pabellon De Oro Restaurant,Score:14.5
+Name:Maharaja Quality Sweets,Score:14.428571428571429
+Name:Brooklyn Pizza Ii,Score:14.428571428571429
+Name:Union Pool,Score:14.5
+Name:Cafe Buon Gusto,Score:14.4
+Name:Polonia Restaurant,Score:14.4
+Name:La Dinastia,Score:14.4
+Name:Lite Bites & Grill,Score:14.4
+Name:Virage,Score:14.4
+Name:Queen Vic,Score:14.4
+Name:Sybil'S Bakery,Score:14.4
+Name:Pasticceria La Torre,Score:14.4
+Name:Jewish Theological Seminary,Score:14.4
+Name:Le Perigord,Score:14.4
+Name:Benny'S Burritos,Score:14.4
+Name:Cassis Bistro/Brasserie,Score:14.333333333333334
+Name:Java Girl,Score:14.333333333333334
+Name:Lane Deli & Catering,Score:14.333333333333334
+Name:Escuelita Club,Score:14.333333333333334
+Name:Unforgettable Lounge,Score:14.333333333333334
+Name:Joyce'S Tavern,Score:14.333333333333334
+Name:Alex'S Kitchen,Score:14.333333333333334
+Name:Tournesol,Score:14.333333333333334
+Name:Nuevo Jardin De China Restaurant,Score:14.333333333333334
+Name:Nancy Whiskey Pub,Score:14.333333333333334
+Name:Kum Gang San Korean Restaurant,Score:14.333333333333334
+Name:Absolute Bagels,Score:14.285714285714286
+Name:Blarney Stone,Score:14.285714285714286
+Name:Cafe Angelique,Score:14.333333333333334
+Name:Kasteli Ii,Score:14.4
+Name:Annie'S Kitchen,Score:14.25
+Name:Lil Frankie'S Pizza,Score:14.25
+Name:Le Petit Cafe,Score:14.25
+Name:Nucci'S Restaurant,Score:14.25
+Name:Dangerfield'S Night Club,Score:14.25
+Name:Hunan Balcony,Score:14.25
+Name:Dominick'S Bar & Restaurant,Score:14.25
+Name:Tony'S Pizza Ii,Score:14.25
+Name:Mikes Pizza,Score:14.222222222222221
+Name:Bricco Restaurant,Score:14.2
+Name:Bamboo Garden,Score:14.2
+Name:Tripoli Restaurant,Score:14.2
+Name:Friends Deli,Score:14.2
+Name:Sam'S Restaurant,Score:14.2
+Name:Sunflower Cafe,Score:14.2
+Name:Da Tommasso,Score:14.2
+Name:Yura & Company On Madison,Score:14.2
+Name:La Cabana Salvadorena Restaurant,Score:14.2
+Name:Billiard Company,Score:14.166666666666666
+Name:Spoto'S Restaurant,Score:14.166666666666666
+Name:Yakitori Taisho,Score:14.166666666666666
+Name:Chez Jaqueline,Score:14.2
+Name:Bowlmor Chelsea Piers,Score:14.166666666666666
+Name:Rex Manor,Score:14.166666666666666
+Name:El Rey De La Caridad,Score:14.166666666666666
+Name:Champion Bakery,Score:14.166666666666666
+Name:Il Riccio Restaurant,Score:14.166666666666666
+Name:The Summit,Score:14.166666666666666
+Name:Terminal1 Employee Cafeteria,Score:14.2
+Name:P&S Bakery Restaurant,Score:14.142857142857142
+Name:Sunrise Coffee Shop,Score:14.166666666666666
+Name:Frank,Score:14.142857142857142
+Name:Villa Monte Pizzeria,Score:14
+Name:Skylight Diner,Score:14.142857142857142
+Name:Sweet Chef Southern Styles Bakery,Score:14
+Name:Fame Diner,Score:14
+Name:Paul & Jimmy'S Restaurant,Score:14
+Name:Patterson Employee Cafeteria,Score:14
+Name:Yankee Tavern,Score:14
+Name:Grand Havana Room,Score:14
+Name:The Princeton Club,Score:14
+Name:Bermay Luncheonette,Score:14
+Name:Oriental Express,Score:14.125
+Name:Rosa Mexicano At Lincoln Center,Score:14
+Name:All American Coffee Shop,Score:14
+Name:Portofino,Score:14
+Name:Polanco Restaurant Bbq,Score:14
+Name:Pj Bernstein Deli & Restaurant,Score:14
+Name:Phillip Marie,Score:14
+Name:Che Bella Pizza,Score:14
+Name:Jimmy'S Corner,Score:14
+Name:Little Poland Restaurant,Score:14
+Name:Fragole,Score:14
+Name:Food Mart Deli,Score:14
+Name:Le Colonial,Score:14
+Name:Ruthys Bakery & Cafe,Score:14
+Name:Genesis # 1 West Indian,Score:14
+Name:J & C Seafood,Score:14
+Name:Devasthanam Canteen,Score:14
+Name:Pier Sixty One-The Lighthouse,Score:14
+Name:Constantines Deli,Score:14
+Name:Brother Jimmy'S Bbq,Score:14
+Name:Island Taste,Score:14
+Name:New Soldiers Restaurant,Score:14
+Name:Bar None,Score:14
+Name:Jimbo'S Hamburgers,Score:14
+Name:Mr Falafael Restaurant,Score:14
+Name:Gene'S Resturant,Score:14
+Name:Katz'S Delicatessen,Score:14
+Name:Biarritz Bakery,Score:13.857142857142858
+Name:Ariyoshi Japanese Restaurant,Score:13.857142857142858
+Name:Sanfords Restaurant,Score:13.833333333333334
+Name:Cloister Cafe,Score:13.833333333333334
+Name:The Arch Diner,Score:13.833333333333334
+Name:Ristorante Settepani,Score:13.833333333333334
+Name:Albella Ristorante & Bar,Score:13.833333333333334
+Name:Boston Pizza,Score:13.833333333333334
+Name:Nha-Trang Centre Vietnam Restaurant,Score:13.833333333333334
+Name:Muzzarella Pizza,Score:13.833333333333334
+Name:Primavera Pizza & Pasta,Score:13.833333333333334
+Name:Angel Flakes Patties,Score:13.833333333333334
+Name:Bravo Pizza,Score:13.818181818181818
+Name:Cilantro,Score:13.88888888888889
+Name:Mexican Radio,Score:13.8
+Name:Vixens,Score:13.8
+Name:Trattoria I Malatesta,Score:13.8
+Name:Happy Fortune,Score:13.8
+Name:Big Daddy'S Diner,Score:13.8
+Name:Nancy'S Fire Side,Score:13.8
+Name:Frank'S Place,Score:13.8
+Name:Milan Sports Bar,Score:13.8
+Name:Vespa Cibobuono,Score:13.8
+Name:Bamonte'S Restaurant,Score:13.8
+Name:La Mediterranee Restaurant,Score:13.8
+Name:Gigino Trattoria,Score:13.8
+Name:Davis Polk Dining Room,Score:13.75
+Name:Tuscany Grill,Score:13.75
+Name:Distilled,Score:13.75
+Name:La Palina Restaurant,Score:13.75
+Name:Casa Pepe,Score:13.75
+Name:Crif Dogs / Please Don'T Tell,Score:13.75
+Name:Topaz Thai Restaurant,Score:13.75
+Name:The Burrito Bar Restaurant,Score:13.75
+Name:Al Di La,Score:13.8
+Name:Jg Melon Restaurant,Score:13.75
+Name:G,Score:13.75
+Name:Krystal European Bakery,Score:13.75
+Name:Red Bowl Noodle Shop,Score:13.714285714285714
+Name:Pollos A La Barasa Mario,Score:13.75
+Name:Mangez Avec Moi,Score:13.666666666666666
+Name:El Tina Fish Market & Seafood Restaurant,Score:13.666666666666666
+Name:Riverdale Steak House,Score:13.666666666666666
+Name:Egyptian Coffee Shop,Score:13.666666666666666
+Name:Candle Cafe,Score:13.75
+Name:Murphy'S Law,Score:13.666666666666666
+Name:Metropolitan Food Cafe Of Brooklyn College,Score:13.666666666666666
+Name:Joyce'S West Indies Restaurant,Score:13.666666666666666
+Name:Opal,Score:13.666666666666666
+Name:Brooklyn Pizza,Score:13.714285714285714
+Name:Columbus Citizens Foundation,Score:13.666666666666666
+Name:Mccann'S Pub,Score:13.8
+Name:Orion Palace,Score:13.666666666666666
+Name:Boston Jerk-City Restaurant,Score:13.6
+Name:Rossini'S,Score:13.666666666666666
+Name:Windfall,Score:13.666666666666666
+Name:The Water Club,Score:13.666666666666666
+Name:Pizza Port,Score:13.6
+Name:Seashore Restaurant,Score:13.6
+Name:Elmhurst Famous Pizza,Score:13.6
+Name:Caffe Palermo,Score:13.6
+Name:Ocean Dragon Restaurant,Score:13.6
+Name:Sunset Park Diner & Donuts,Score:13.6
+Name:Paradou,Score:13.6
+Name:Turkish Cuisine,Score:13.6
+Name:Arturo'S,Score:13.6
+Name:Cafe Luka,Score:13.6
+Name:I Trulli Restaurant,Score:13.6
+Name:Emporium Brasil Restaurant,Score:13.8
+Name:Blue Bay Diner,Score:13.571428571428571
+Name:Triple Crown Diner,Score:13.571428571428571
+Name:The Dart Inn,Score:13.6
+Name:Sapporo Restaurant,Score:13.6
+Name:Master Wok,Score:13.555555555555555
+Name:Metropolitan Club,Score:13.5
+Name:New York Jr. League,Score:13.5
+Name:Anna Maria Pizza Pasta,Score:13.5
+Name:Danny'S Deli,Score:13.5
+Name:Marco Polo Ristorante,Score:13.5
+Name:Memo Shish Kebab,Score:13.5
+Name:Golden Horse Chinese Rest,Score:13.5
+Name:Barbes,Score:13.5
+Name:Keens Steakhouse,Score:13.5
+Name:Chez Napolean,Score:13.5
+Name:Arharn Thai Cuisine,Score:13.428571428571429
+Name:Bahia Restaurant & Cafe,Score:13.4
+Name:Giardino Ristorante,Score:13.4
+Name:Orsay,Score:13.5
+Name:My Little Pizzeria,Score:13.4
+Name:Angelica Kitchen,Score:13.5
+Name:Errol'S Bakery,Score:13.4
+Name:Angelo'S Pizzeria/Mimmo'S Restaurant,Score:13.4
+Name:Hudson Place,Score:13.4
+Name:Grandstand Tavern,Score:13.4
+Name:Uncle Nicks,Score:13.5
+Name:Hallo Berlin,Score:13.4
+Name:Sutton Pizza & Gyro,Score:13.4
+Name:Dyckman Bar,Score:13.4
+Name:Mateus Restaurant,Score:13.4
+Name:National Arts Club,Score:13.4
+Name:Cindy Restaurant Luncheonette,Score:13.4
+Name:Elegante Pizza,Score:13.4
+Name:Chelsea Trattoria,Score:13.4
+Name:Ah! Chihuahua,Score:13.4
+Name:Buddy'S Burrito & Taco Bar,Score:13.333333333333334
+Name:Via Brazil,Score:13.4
+Name:The Greek Corner,Score:13.333333333333334
+Name:Sanremo Pizza,Score:13.333333333333334
+Name:Sammy'S Noodle Shop & Grill,Score:13.333333333333334
+Name:Anopoli Family Restaurant,Score:13.333333333333334
+Name:Mezzaluna,Score:13.333333333333334
+Name:Rosa #2 Pizzeria,Score:13.333333333333334
+Name:Francisco'S Centro Vasco,Score:13.333333333333334
+Name:Greenwood Bakery,Score:13.333333333333334
+Name:Le Trapeze,Score:13.333333333333334
+Name:La Mangeoire,Score:13.333333333333334
+Name:71 Irving Place,Score:13.333333333333334
+Name:Rockaway Beach Inn,Score:13.333333333333334
+Name:Gloria'S In And Out #3,Score:13.333333333333334
+Name:Hasaki Restaurant,Score:13.285714285714286
+Name:Malaga Restaurant,Score:13.333333333333334
+Name:Cascarino'S,Score:13.333333333333334
+Name:Brandy'S Piano Bar,Score:13.25
+Name:Jerusalem Pizza,Score:13.25
+Name:Allan'S Bakery,Score:13.25
+Name:Desseo Night Club,Score:13.25
+Name:Villa Russo,Score:13.25
+Name:Garden Cafe Restaurant,Score:13.25
+Name:Aretsky'S Patroon,Score:13.25
+Name:Beauty Bar,Score:13.25
+Name:Antojitos Mexicanos,Score:13.285714285714286
+Name:La Caridad Restaurant,Score:13.25
+Name:The Scratcher Cafe,Score:13.2
+Name:Dolcino Trattoria Toscana,Score:13.2
+Name:The Parlour,Score:13.25
+Name:Parisi Bakery,Score:13.2
+Name:Josie'S Restaurant,Score:13.2
+Name:Papa Leone Pizzeria,Score:13.2
+Name:The Village Tavern,Score:13.2
+Name:La Fe Restaurant,Score:13.2
+Name:Casanova Restaurant,Score:13.2
+Name:Artie'S,Score:13.2
+Name:Matt'S Grill Restaurant,Score:13.2
+Name:Wolf And Lamb,Score:13.2
+Name:Glenda'S Restaurant,Score:13.2
+Name:Three Star Restaurant,Score:13.2
+Name:Gustosa Pizza,Score:13.2
+Name:Dino'S Pizza & Pasta,Score:13.2
+Name:Eastwood Manor,Score:13.2
+Name:El Boqueron Tapas Bar & Restaurant,Score:13.2
+Name:Paris Blues,Score:13.25
+Name:The Thirsty Scholar,Score:13.2
+Name:Omen Japanese Cuisine,Score:13.2
+Name:Wimpy'S Restaurant,Score:13.2
+Name:Sutton Cafe Restaurant,Score:13.166666666666666
+Name:Baybridge Szechuan Restaurant,Score:13.166666666666666
+Name:San Remo Pizza,Score:13.166666666666666
+Name:Stromboli Pizza,Score:13.142857142857142
+Name:Johns Cafe & Resturant,Score:13.142857142857142
+Name:Richmond County Country Club,Score:13.11111111111111
+Name:7B Bar,Score:13.2
+Name:Mike'S Coffee Shop,Score:13.11111111111111
+Name:Great Jones Cafe,Score:13.2
+Name:Tribeca Tavern,Score:13
+Name:Bali Nusa Indonesian Restaurant,Score:13.2
+Name:Canaletto Ristorante,Score:13
+Name:Daniel,Score:13
+Name:Il Fornetto Trattoria Cafe,Score:13
+Name:Bartow Pizza,Score:13
+Name:Mcdonald Avenue Diner,Score:13
+Name:Mike'S Pub,Score:13
+Name:Surf & Turf Restaurant,Score:13
+Name:Cinema Cafe & Bar,Score:13
+Name:Hangar Bar,Score:13
+Name:La Grotta Ristorante,Score:13
+Name:Kerry Hills Pub,Score:13
+Name:Glatt Kosher Family Chinese Restaurant,Score:13
+Name:One Deli Restaurant,Score:13
+Name:Caffe Venezia,Score:13
+Name:104-01 Foster Avenue Coffee Shop(Ups),Score:13
+Name:Windjammers Bar,Score:13
+Name:The Country Cafe,Score:13
+Name:Henrietta Hudson,Score:13
+Name:Irene'S Place,Score:13
+Name:Restaurant Annisa,Score:13
+Name:Paddy Quinns,Score:13
+Name:Barranquilla Bakery & Restaurant,Score:13
+Name:Cafeteria,Score:13
+Name:Rico Pan Bakery,Score:13
+Name:Gennaro'S Rest & Pizzeria,Score:13
+Name:Panchito'S,Score:13
+Name:Nino'S Positano,Score:13
+Name:Lomzymianka Restaurant,Score:13
+Name:Cafe Riazor,Score:13
+Name:Me & My Eggroll,Score:13
+Name:D'Angelo'S Pizzeria And Restaurant,Score:13
+Name:Great N.Y. Noodletown,Score:13
+Name:Dive Bar,Score:13
+Name:Cafe 31,Score:13
+Name:Gradisca Restaurant,Score:13
+Name:Bangkok Grand Palace,Score:13
+Name:Shalon Restaurant,Score:13
+Name:Bar Tabac,Score:13
+Name:9Th Ave Saloon,Score:13
+Name:Cafe Al Mercato,Score:13
+Name:Grassroot Tavern,Score:13
+Name:Marino'S Pizza & Restaurant,Score:13
+Name:Labetti'S Post # 2159,Score:13
+Name:Alyshia Aleem Coffee Shop,Score:13
+Name:Jentana'S Pizza,Score:13
+Name:Gina'S Pizza,Score:13
+Name:Reif'S Tavern,Score:13
+Name:44 Sw Ristorante & Bar,Score:13
+Name:Esca,Score:13
+Name:Surf Bar,Score:13
+Name:Blarney Castle,Score:13
+Name:Coffee Express,Score:13
+Name:Mike'S Place,Score:13
+Name:El Aguila Bakery,Score:13
+Name:Demarchelier Restaurant,Score:13
+Name:Le Train Bleu & B Cafe,Score:13
+Name:S & T Bagels & Deli,Score:13
+Name:Firenze,Score:13
+Name:La Nueva Giralda Bakery,Score:13
+Name:Pate'S Jeanty,Score:13
+Name:Emerald Pub,Score:12.88888888888889
+Name:Speedy Deli,Score:13
+Name:La Isla Cuchifritos,Score:12.857142857142858
+Name:H & H Midtown Bagels East,Score:12.833333333333334
+Name:Neptune Polish Restaurant,Score:12.833333333333334
+Name:Le Zie Trattoria,Score:12.833333333333334
+Name:Candle Bar,Score:12.833333333333334
+Name:Tony'S Deli,Score:12.833333333333334
+Name:Benjamin,Score:12.833333333333334
+Name:Cookie'S Lounge,Score:12.833333333333334
+Name:Zum Stammtisch,Score:12.833333333333334
+Name:Family Corner,Score:12.833333333333334
+Name:Morris Park Pizza,Score:12.833333333333334
+Name:Los Toldos Restaurant,Score:12.833333333333334
+Name:Le Bateau Ivre,Score:12.8
+Name:Feeding Tree Style West Indian Restaurant,Score:12.833333333333334
+Name:Naomi Kosher Pizza,Score:12.8
+Name:The New Starling Athletic Club Of The Bronx,Score:12.8
+Name:Dan Tempura,Score:12.8
+Name:Tj Byrne'S Bar,Score:12.8
+Name:Salisbury Hotel,Score:12.8
+Name:Tina'S Restaurant,Score:12.8
+Name:Harry'O,Score:13
+Name:Cafe Renaissance,Score:12.8
+Name:Elmo,Score:12.8
+Name:Indigo Indian Cuisine,Score:12.8
+Name:La Bruschetta Restaurant,Score:12.8
+Name:Scalinatella Ristaurant,Score:12.8
+Name:Strokos Gourmet Deli,Score:12.8
+Name:Belaire Cafe,Score:12.8
+Name:Henry'S,Score:12.8
+Name:Michael'S,Score:12.8
+Name:Doyle'S Corner,Score:12.75
+Name:Sports Mania Bar & Grill,Score:12.75
+Name:Red Rose,Score:12.75
+Name:Rose'S Pizza,Score:12.75
+Name:Girasol Bakery,Score:12.75
+Name:Avellino Restaurant,Score:12.75
+Name:Buono Bakery,Score:12.75
+Name:Arthur'S Tavern,Score:12.75
+Name:Spirit Of New York,Score:12.75
+Name:Manhattan Courtyard,Score:12.75
+Name:Pizza D'Oro,Score:12.75
+Name:Milanes Spanish Restaurant,Score:12.714285714285714
+Name:Zorba'S,Score:12.8
+Name:Amelia'S Restaurant,Score:12.714285714285714
+Name:The Dish Restaurant,Score:12.666666666666666
+Name:Original Vegetarian Restaurant,Score:12.666666666666666
+Name:Smiler'S Deli,Score:12.714285714285714
+Name:The Eagle,Score:12.666666666666666
+Name:Indian Taj,Score:12.666666666666666
+Name:Alba'S Pizza,Score:12.666666666666666
+Name:Archer Sports Bar,Score:12.666666666666666
+Name:Bayridge Pizza,Score:12.666666666666666
+Name:La Vienesa Spanish Bakery,Score:12.666666666666666
+Name:Latourette Golf Course,Score:12.666666666666666
+Name:The Trash Bar,Score:12.666666666666666
+Name:Vinny'S Pizza,Score:12.666666666666666
+Name:Union Hall,Score:12.75
+Name:The Cupping Room,Score:12.666666666666666
+Name:Carlow East,Score:12.666666666666666
+Name:Patty World,Score:12.666666666666666
+Name:Mr Mcgoo'S,Score:12.666666666666666
+Name:The Union League Club,Score:12.666666666666666
+Name:Joe'S Of Ave U,Score:12.6
+Name:San Loco,Score:12.666666666666666
+Name:Taco Bell Pizza Hut Express,Score:12.6
+Name:Montezuma Restaurant,Score:12.6
+Name:Il Toscano Ristorante,Score:12.6
+Name:Duffy'S,Score:12.6
+Name:Opia Restaurant,Score:12.6
+Name:Monster Sushi,Score:12.6
+Name:Big New York Fried Chicken,Score:12.6
+Name:Kingston Tropical Bakery,Score:12.6
+Name:Santa Fe Grill & Bar,Score:12.6
+Name:Sugar Bar,Score:12.6
+Name:Tasty'S,Score:12.666666666666666
+Name:My Uncle'S Steak Restaurant,Score:12.6
+Name:Reben Luncheonette,Score:12.6
+Name:Bocca Di Bacco,Score:12.6
+Name:Killmeyer'S Old Bavaria Inn.,Score:12.6
+Name:Empire Wok Kitchen,Score:12.6
+Name:Marty O'Brien'S,Score:12.6
+Name:Mezcal'S Dos Restaurant,Score:12.6
+Name:Throgs Neck Clipper,Score:12.6
+Name:Pizza Boy Ii,Score:12.6
+Name:Knickerbocker Bar & Grill,Score:12.6
+Name:Burger Barn Restaurant,Score:12.6
+Name:Cafe Loup,Score:12.6
+Name:Georgia Diner,Score:12.571428571428571
+Name:Molyvos,Score:12.6
+Name:Erminia Restaurant,Score:12.6
+Name:Eurest Dining Service (American Express),Score:12.571428571428571
+Name:Toad Hall,Score:12.6
+Name:Grand Street Deli & Mini Market,Score:12.571428571428571
+Name:Kana Tapas Bar & Restaurant,Score:12.5
+Name:Maguire'S Public House,Score:12.5
+Name:China Chalet,Score:12.5
+Name:Airport Deli,Score:12.5
+Name:Dim Sum Go Go,Score:12.5
+Name:New York Rifle Club,Score:12.5
+Name:Clinton Street Baking Company,Score:12.5
+Name:Moustache,Score:12.5
+Name:Townhouse Of Ny,Score:12.5
+Name:Felidia Restaurant,Score:12.5
+Name:Taqueria Restaurante Mi Bario,Score:12.5
+Name:Box Car Lounge,Score:12.5
+Name:Wakamatsu Japanese Restaurant,Score:12.5
+Name:Kismat Indian Cuisine,Score:12.5
+Name:Cranberry'S,Score:12.5
+Name:My Three Sons Restaurant,Score:12.5
+Name:Wharf Bar And Grill,Score:12.5
+Name:Hunan ''K'' Chinese Restaurant,Score:12.5
+Name:Blake & Todd,Score:12.5
+Name:Sido Falalel & More,Score:12.5
+Name:Sotto Voce Restaurant,Score:12.5
+Name:El Paraiso Bar & Restaurant,Score:12.5
+Name:Petes Pizzeria & Restaurant,Score:12.5
+Name:La Piazzetta,Score:12.5
+Name:Murray'S Bagels,Score:12.454545454545455
+Name:Trinity Pub,Score:12.5
+Name:Glory Deli,Score:12.428571428571429
+Name:Famous Joe'S Pizza,Score:12.428571428571429
+Name:Hanover Gourmet Deli,Score:12.428571428571429
+Name:Snacks-N-Wheels,Score:12.4
+Name:Chock Full O' Nuts,Score:12.4
+Name:Bar Toto,Score:12.5
+Name:A.J. Pizzeria,Score:12.4
+Name:Kabooz'S Bar & Grille,Score:12.4
+Name:Havana Alma De Cuba,Score:12.4
+Name:Bagel Bob'S,Score:12.4
+Name:National Restaurant & Catering,Score:12.4
+Name:Carnegie Delicatessen & Restaurant,Score:12.4
+Name:Cocktail Room (Nyac),Score:12.4
+Name:Peasant,Score:12.4
+Name:Rocco'S Pizzeria,Score:12.4
+Name:Fontana Famous Pizza & Gyro,Score:12.4
+Name:Alba Pizza,Score:12.4
+Name:Collado Restaurant,Score:12.4
+Name:Tony'S Brick Oven,Score:12.4
+Name:Sandy'S Deli & Roti,Score:12.4
+Name:Renaissance Restaurant Bar And Garden Diner,Score:12.4
+Name:Mama Lucia,Score:12.4
+Name:Artisanal,Score:12.4
+Name:P.J. Charlton,Score:12.333333333333334
+Name:Ali'S Roti Shop,Score:12.333333333333334
+Name:La Bagel Delight,Score:12.333333333333334
+Name:3 Guys,Score:12.333333333333334
+Name:Dairy Palace,Score:12.333333333333334
+Name:Caterina'S Pizza,Score:12.333333333333334
+Name:Tierras Columbianas,Score:12.333333333333334
+Name:Imperial Biker Bar,Score:12.333333333333334
+Name:Loeser'S Hebrew National,Score:12.333333333333334
+Name:Island Burgers And Shakes,Score:12.333333333333334
+Name:Citibank Employee Cafeteria,Score:12.333333333333334
+Name:Al-Mehran Restaurant,Score:12.333333333333334
+Name:Shore Haven Diner,Score:12.333333333333334
+Name:Leon Bakery,Score:12.333333333333334
+Name:O.B'S Bakery,Score:12.333333333333334
+Name:Ben-Best Deli & Restaurant,Score:12.333333333333334
+Name:Peking Duck House,Score:12.3
+Name:La Casa Bella,Score:12.285714285714286
+Name:Von,Score:12.25
+Name:Gino'S Pastry Shop,Score:12.25
+Name:Amaranth,Score:12.25
+Name:Anthony'S Place,Score:12.25
+Name:Triestes Restaurant,Score:12.25
+Name:Baraonda,Score:12.25
+Name:Gemini Diner,Score:12.25
+Name:Melody Lanes,Score:12.25
+Name:Denino'S Pizzeria Tavern,Score:12.25
+Name:Nobu,Score:12.25
+Name:St. Dymphna'S,Score:12.25
+Name:Lok Sing Chinese Restaurant,Score:12.25
+Name:Jp'S Bar,Score:12.25
+Name:Pizza Royale,Score:12.25
+Name:El Gauchito Restaurant,Score:12.25
+Name:Maz Mezcal,Score:12.2
+Name:Tavern On Jane,Score:12.25
+Name:Chiu Hong Bakery,Score:12.25
+Name:Mi Sueno Restaurant,Score:12.2
+Name:Broadway Bagel,Score:12.2
+Name:Playwright Celtic Pub,Score:12.3
+Name:Dining Room,Score:12.2
+Name:Tibbett Diner,Score:12.2
+Name:Brazil Grill,Score:12.2
+Name:Chirping Chicken,Score:12.2
+Name:New Yorker Hotel Kitchen,Score:12.2
+Name:Barries Restaurant,Score:12.2
+Name:Book Chang Dong Sodndubu,Score:12.2
+Name:Village Maria Pizza Ii,Score:12.2
+Name:The Greek Kitchen  Clinton Bakery Cafe,Score:12.2
+Name:Glorious Food,Score:12.2
+Name:Chicken Festival,Score:12.2
+Name:Gourmet On J,Score:12.2
+Name:Cherokee Deli,Score:12.2
+Name:Dakota Diner,Score:12.2
+Name:Arte Restaurant,Score:12.2
+Name:Parkside Restaurant,Score:12.2
+Name:Cafe Edison,Score:12.166666666666666
+Name:Sob'S,Score:12.2
+Name:Petrossian Restauraunt,Score:12.2
+Name:Mama'S Fried Chicken,Score:12.166666666666666
+Name:Vic'S,Score:12.166666666666666
+Name:Sophie'S Restaurant,Score:12.166666666666666
+Name:The Rail Line Diner,Score:12.166666666666666
+Name:Burke'S Pub,Score:12.166666666666666
+Name:Fresco Bar Cafe Restaurant,Score:12.166666666666666
+Name:Amf 34 Avenue Lanes,Score:12.166666666666666
+Name:Applebaum'S,Score:12.166666666666666
+Name:Roosevelt Gourmet Deli,Score:12.142857142857142
+Name:Food For Thought Catered Events,Score:12.142857142857142
+Name:Scotty'S Diner,Score:12.142857142857142
+Name:Kabul Kabab House,Score:12.166666666666666
+Name:21 Club,Score:12
+Name:The New Thompson Diner,Score:12.142857142857142
+Name:Nick And Toni'S Cafe,Score:12
+Name:Mustang Harry'S,Score:12
+Name:Bagel Deli / Village Green Deli,Score:12
+Name:Vee'S Restaurant,Score:12.125
+Name:Sakebar Decibel,Score:12
+Name:Cositas Ricas,Score:12
+Name:Gino'S Pizza,Score:12.15
+Name:Bravo Cafe Concert,Score:12
+Name:Pj Morans,Score:12
+Name:Euzkadi,Score:12
+Name:Firehouse,Score:12
+Name:Mccaffrey And Burke,Score:12
+Name:La Baraka Restaurant,Score:12
+Name:Ilda'S Place Ii,Score:12
+Name:Plymouth Cafe,Score:12
+Name:Swift,Score:12
+Name:Napoli Pizza,Score:12
+Name:Regency Whist Club,Score:12
+Name:Crossroads (Marriott Marquis),Score:12
+Name:Royal King'S Pizza,Score:12
+Name:Walter Reade Theater,Score:12
+Name:Saji'S Japanese Food,Score:12
+Name:Bergen Beach Cafe,Score:12
+Name:V & T Restaurant,Score:12
+Name:Greenpoint Tavern,Score:12
+Name:Isabela'S Mexican Cuisine,Score:12
+Name:Camilles,Score:12
+Name:Johnny'S Reef Restaurant,Score:12
+Name:Famous Bagel Buffet,Score:12
+Name:Cassidy'S Ale House,Score:12
+Name:Riverdale Diner,Score:12
+Name:Alma,Score:12
+Name:Buona Notte Ristorante,Score:12
+Name:Pat'S Palm Tree Inn,Score:12
+Name:Bull Shots,Score:12
+Name:Elephant & Castle,Score:12
+Name:Strictly Vegetarian,Score:12
+Name:Tribeca Grill,Score:12
+Name:Pier 60,Score:12
+Name:Bagel Club,Score:12
+Name:Fresh Meadow'S Pizza & Restaurant,Score:12
+Name:Silver Moon Bakery,Score:12
+Name:Riverdale Yacht Club,Score:12
+Name:The Crooked Tree,Score:12
+Name:City Market Cafe,Score:12
+Name:Lena Restaurant,Score:12
+Name:Uskudar Restaurant,Score:12
+Name:Lexington Bar And Books,Score:12
+Name:The Grand Prospect Hall,Score:12
+Name:Khyber Pass,Score:12
+Name:Le Mirage Cafe,Score:12
+Name:Rockys & Nickys Pizzeria,Score:12
+Name:Palace Cafe,Score:12
+Name:Two Boots To Go West,Score:12
+Name:The Original Pizza Of 4Th Ave,Score:12
+Name:Music Box Theater,Score:12
+Name:Douglaston Club,Score:12
+Name:Ground Level Beer Pub,Score:12
+Name:Russo'S On The Bay,Score:12
+Name:Gigino At Wagner Park,Score:12
+Name:810 Deli & Cafe,Score:12
+Name:Ambrosinos Pizzeria,Score:12
+Name:Loui Seafood,Score:12
+Name:Dante'S Gourmet Food,Score:12
+Name:Pugsley Pizza,Score:12
+Name:The Hallmark Of Battery Park City- Dining Room,Score:12
+Name:La Antioquena Bakery Ii,Score:12
+Name:Han Gawi,Score:12
+Name:Credit Agricole,Score:12
+Name:Noodle Pudding,Score:12
+Name:Spolini'S,Score:12
+Name:Golden Krust Caribbean Bakery & Grill,Score:11.935483870967742
+Name:Felice 64 Wine Bar,Score:12
+Name:Bergen Bagels,Score:11.857142857142858
+Name:Viand Coffee Shop,Score:11.857142857142858
+Name:Duke'S,Score:11.9
+Name:China Fun,Score:11.857142857142858
+Name:Mother'S Bake Shop,Score:11.833333333333334
+Name:The University Club,Score:11.846153846153847
+Name:Teresa'S Resturant,Score:11.857142857142858
+Name:El Continental Restaurant,Score:11.833333333333334
+Name:Nyac Main Dining Room,Score:11.833333333333334
+Name:The Restaurant,Score:11.833333333333334
+Name:India Passage Restaurant,Score:11.833333333333334
+Name:Sato Japanese Restaurant,Score:11.833333333333334
+Name:Grand Morelos Diner & Bakery,Score:11.833333333333334
+Name:Tandoori Food & Bakery,Score:11.833333333333334
+Name:Patsy'S Pizzeria Restaurant,Score:11.833333333333334
+Name:Austin'S Steak & Ale House,Score:11.833333333333334
+Name:Joe'S Pizza,Score:11.833333333333334
+Name:Jj Garden Restaurant,Score:11.833333333333334
+Name:Millie'S Deli,Score:11.833333333333334
+Name:Louie'Sdale Diner,Score:11.833333333333334
+Name:Po Restaurant,Score:11.8
+Name:Sushi Samba #7,Score:11.8
+Name:Playwright Tavern,Score:11.8
+Name:Hot & Crusty Bakery,Score:11.833333333333334
+Name:Seuda Foods,Score:11.8
+Name:Sweet & Vicious,Score:11.833333333333334
+Name:Tasty Fast Food,Score:11.8
+Name:Old Homestead,Score:11.8
+Name:Rossville Pizzeria,Score:11.8
+Name:Tjk Cafe & Restaurant,Score:11.8
+Name:Bistro Ten-18,Score:11.8
+Name:Negril,Score:11.8
+Name:Ear Inn,Score:11.8
+Name:Legends Bar & Grill,Score:11.8
+Name:Nina'S Restaurant Pizzeria,Score:11.8
+Name:Dive 75,Score:11.8
+Name:Green Trees,Score:11.8
+Name:Mirage Diner Restauraunt,Score:11.8
+Name:Yvonne Yvonne Restaurant,Score:11.8
+Name:Ralph'S Ii Deli,Score:11.8
+Name:Caridad Restaurant,Score:11.76923076923077
+Name:Turkuaz Turkish Cuisine,Score:11.75
+Name:Lighthouse Cafe Restaurant,Score:11.8
+Name:Papa John'S,Score:11.75
+Name:Fifth Avenue Bingo,Score:11.75
+Name:Oakland Cafeteria/Queensborough Community College,Score:11.75
+Name:Mcdonald'S (Macy'S 7Th Fl),Score:11.75
+Name:Uno Chicago Grill,Score:11.75
+Name:Prima Pasta & Cafe,Score:11.75
+Name:Astral Fitness & Wellness,Score:11.75
+Name:Manducatis,Score:11.8
+Name:Ty'S,Score:11.75
+Name:Session 73,Score:11.75
+Name:Hong Fung Bakery,Score:11.75
+Name:Paris Gourmet Deli,Score:11.75
+Name:Pasta Lovers Trattoria,Score:11.75
+Name:Giacomo Fine Foods,Score:11.75
+Name:Don Coqui,Score:11.75
+Name:Sugar Factory,Score:11.75
+Name:Rocco'S Italian Sausages & Philly Cheesesteaks,Score:11.75
+Name:Elora Restaurant,Score:11.75
+Name:Soba-Ya,Score:11.75
+Name:La Pizza Fresca,Score:11.75
+Name:Bagels & Cream Deli,Score:11.714285714285714
+Name:Abir Halal Restaurant,Score:11.714285714285714
+Name:Solas,Score:11.714285714285714
+Name:Aldo'S Ii Pizza And Restaurant,Score:11.75
+Name:E.A.T. Cafe,Score:11.714285714285714
+Name:Seoul Garden,Score:11.714285714285714
+Name:Bella Luna,Score:11.7
+Name:Madame X,Score:11.714285714285714
+Name:Lombardi'S,Score:11.666666666666666
+Name:Zaro'S Bakery,Score:11.666666666666666
+Name:Spring St. Natural Restaurant,Score:11.666666666666666
+Name:Pizza Town,Score:11.666666666666666
+Name:Brasserie Athenee,Score:11.666666666666666
+Name:Jian On Chinese Restaurant,Score:11.666666666666666
+Name:Old John'S Luncheonette,Score:11.666666666666666
+Name:Europa Cafe,Score:11.736842105263158
+Name:Ciao Bella,Score:11.666666666666666
+Name:Reuters Cafeteria,Score:11.666666666666666
+Name:Market Place Pizza,Score:11.666666666666666
+Name:Bull Mccabes,Score:11.666666666666666
+Name:Wallse Restaruant,Score:11.666666666666666
+Name:Usuluteco Restaurant,Score:11.666666666666666
+Name:Woodlawn Cafe,Score:11.666666666666666
+Name:Hana Sushi,Score:11.666666666666666
+Name:Blue Smoke,Score:11.666666666666666
+Name:Cafe 75 Bar,Score:11.666666666666666
+Name:Queen Of Sheba Ethiopian Restaurant,Score:11.666666666666666
+Name:The Palace Theater,Score:11.666666666666666
+Name:Kabab Cafe,Score:11.666666666666666
+Name:Point View Deli,Score:11.666666666666666
+Name:Casa Bella,Score:11.666666666666666
+Name:The Astoria World Manor,Score:11.6
+Name:Kennedy Fried Chicken,Score:11.666666666666666
+Name:Shimons Kosher Pizza,Score:11.6
+Name:Maggie Mays,Score:11.6
+Name:Lenny'S Clam Bar,Score:11.6
+Name:Caterina'S Pizzeria,Score:11.6
+Name:Campanile,Score:11.6
+Name:Tom'S Restaurant,Score:11.6
+Name:Empire Szechuan Noodle House,Score:11.6
+Name:J&V Famous Pizza,Score:11.6
+Name:Arzu Restaurant,Score:11.6
+Name:Charo Restaurant,Score:11.6
+Name:Rio Cobre Restaurant,Score:11.6
+Name:Jp'S Waterside Restaurant,Score:11.6
+Name:The Black Duck Restaurant,Score:11.6
+Name:Blue Ribbon Sushi,Score:11.6
+Name:Foley'S N.Y. Pub And Restaurant,Score:11.6
+Name:Douglaston Golf Snacks,Score:11.6
+Name:Pizza Pub,Score:11.6
+Name:Oki Japanese Restaruant,Score:11.6
+Name:Checkers,Score:11.6
+Name:Wondee Siam Ii,Score:11.6
+Name:Lulu'S Coffee Shop,Score:11.6
+Name:Bungalow Bar & Restaurant,Score:11.6
+Name:Margherita Pizza,Score:11.6
+Name:Iona'S Bar,Score:11.6
+Name:Rosario Deli,Score:11.6
+Name:La Fusta Restaurant,Score:11.571428571428571
+Name:Rose Water,Score:11.6
+Name:Majestic Pizza,Score:11.571428571428571
+Name:Vinnie'S Pizzeria/ Luncheonette,Score:11.571428571428571
+Name:Lexington Candy Shop,Score:11.6
+Name:La Verite Restaurant Bar,Score:11.5
+Name:Intermisson Cafe,Score:11.5
+Name:El Dorado Cafe,Score:11.5
+Name:Pier 25A Restaurant,Score:11.5
+Name:Crown Gourmet Deli,Score:11.571428571428571
+Name:Haveli,Score:11.5
+Name:Mad River Bar & Grille,Score:11.5
+Name:Whitsons And Forbes,Score:11.5
+Name:T.J.'S Sports Bar,Score:11.5
+Name:The Cake Chef,Score:11.5
+Name:Luigi'S Catering,Score:11.5
+Name:John Mulligan'S Fireside Pub,Score:11.5
+Name:Frank'S Pizza Restaurant,Score:11.5
+Name:Think Sweet Cafe,Score:11.5
+Name:Lotos Club Grill Room,Score:11.5
+Name:City Island Diner /Snug Bar,Score:11.5
+Name:Ko-Sushi Japanese Restaurant,Score:11.5
+Name:Los Girasoles Restaurant,Score:11.5
+Name:La Familia Restaurant,Score:11.5
+Name:El Caramelo Coffee Shop,Score:11.5
+Name:Caprice,Score:11.5
+Name:El Nuevo Cafe Latino,Score:11.5
+Name:Rick'S Cabaret,Score:11.5
+Name:Dyker Park Bagels,Score:11.5
+Name:Jade Seneca Oriental Restaurant,Score:11.5
+Name:Conti'S,Score:11.5
+Name:Oasis Cafe,Score:11.5
+Name:A & S Pizzeria,Score:11.5
+Name:Mug-Z'S Sports Bar,Score:11.5
+Name:Buccaneer Diner,Score:11.5
+Name:Cibo,Score:11.5
+Name:Donut Pub,Score:11.5
+Name:Rolen Bagels,Score:11.5
+Name:Maggies Place,Score:11.5
+Name:Szechuan Delight Restaurant,Score:11.5
+Name:Nostrand Donut Shop,Score:11.5
+Name:Ajanta India,Score:11.5
+Name:Belmora Pizza & Restaurant,Score:11.5
+Name:The Tick Tavern,Score:11.5
+Name:Seguine Bagel Bakery,Score:11.5
+Name:Central Park Boathouse,Score:11.5
+Name:Glendale Bakeshop & Cafe,Score:11.5
+Name:St. Marks Ale House,Score:11.5
+Name:Le Rivage,Score:11.5
+Name:Bagel Bazaar,Score:11.5
+Name:Vista Hermosa Deli Restaurant,Score:11.428571428571429
+Name:Novecento,Score:11.5
+Name:Mendy'S,Score:11.428571428571429
+Name:Manna House Bakery,Score:11.428571428571429
+Name:Krystal Pastry Shop,Score:11.428571428571429
+Name:Coopers Tavern,Score:11.4
+Name:Four Seasons Hotel,Score:11.444444444444445
+Name:Mee Sum Coffee Shop,Score:11.428571428571429
+Name:Charles Pizzeria,Score:11.4
+Name:Mitchell'S Restaurant,Score:11.4
+Name:Coliseum Bar Restaurant,Score:11.4
+Name:One If By Land Two If By Sea,Score:11.4
+Name:Oxford Cafe,Score:11.4
+Name:Off Shore Restaurant,Score:11.4
+Name:Blue Ribbon Brasserie,Score:11.4
+Name:Bay Pizzeria Restaurant,Score:11.4
+Name:Spain Restaurant & Bar,Score:11.4
+Name:News Bar,Score:11.4
+Name:Minskoff Theater,Score:11.4
+Name:Saharas Turkish Cuisine,Score:11.4
+Name:Anna'S Cafe,Score:11.4
+Name:Real Madrid Restaurant,Score:11.4
+Name:Annie Moore'S Restaurant,Score:11.4
+Name:Trackside,Score:11.4
+Name:J & J Restaurant & Cuchifritos,Score:11.4
+Name:Rice & Beans Lechonera,Score:11.4
+Name:Baker Street Pub,Score:11.4
+Name:The Nippon Club,Score:11.4
+Name:Empire Szechuan Village,Score:11.4
+Name:Fitzgerald'S Pub,Score:11.4
+Name:South'S,Score:11.4
+Name:Tribeca Grand Hotel,Score:11.4
+Name:Bliss Street Station Restaurant,Score:11.4
+Name:Loki Bar & Benchmark Restaurant,Score:11.4
+Name:Nita'S European Bakery,Score:11.4
+Name:El Cuencanito,Score:11.4
+Name:Maria Pia,Score:11.4
+Name:Europa Go-Go Dancing,Score:11.4
+Name:Le Marais,Score:11.4
+Name:Angelo Of Mulberry St.,Score:11.4
+Name:Frank'S Pizzeria,Score:11.4
+Name:Society Of Illustrators,Score:11.4
+Name:La Luncheonette,Score:11.4
+Name:Campeon,Score:11.4
+Name:The Bitter End,Score:11.4
+Name:Strauss Bakery,Score:11.4
+Name:Flamingo,Score:11.4
+Name:Gene'S Coffee Shop,Score:11.4
+Name:Shun Lee,Score:11.4
+Name:Bellrose Deli,Score:11.4
+Name:Acqua Santa,Score:11.4
+Name:Arturo'S Pizza,Score:11.333333333333334
+Name:Reme Restaurant,Score:11.333333333333334
+Name:Pershing Square Cafe,Score:11.333333333333334
+Name:Caridad,Score:11.4
+Name:Kristy'S Restaurant,Score:11.333333333333334
+Name:Yemen Cuisine,Score:11.333333333333334
+Name:Rythym & Booze,Score:11.333333333333334
+Name:Shabu-Shabu 70 Restaurant,Score:11.333333333333334
+Name:The Abbey,Score:11.333333333333334
+Name:Mcgees Pub,Score:11.333333333333334
+Name:Gray'S Papaya,Score:11.333333333333334
+Name:Cafe Spice,Score:11.333333333333334
+Name:San Pietro,Score:11.333333333333334
+Name:The Patio Grill,Score:11.333333333333334
+Name:Rivoli Pizza Restaurant,Score:11.333333333333334
+Name:Washington Square Diner,Score:11.333333333333334
+Name:Nora'S Park Bench Cafe,Score:11.333333333333334
+Name:The Williamsbridge Tavern,Score:11.333333333333334
+Name:Woodrow Diner,Score:11.333333333333334
+Name:Montebello Restaurant,Score:11.333333333333334
+Name:Brady'S Bar,Score:11.333333333333334
+Name:Rose Restaurant,Score:11.333333333333334
+Name:Dylan'S Candybar,Score:11.333333333333334
+Name:Canlon'S Restaurant,Score:11.333333333333334
+Name:Peking Express,Score:11.333333333333334
+Name:Village Yogurt,Score:11.333333333333334
+Name:Air India Lounge,Score:11.333333333333334
+Name:Kings County Cafeteria Bldg T,Score:11.333333333333334
+Name:Mary'S Fish Camp,Score:11.333333333333334
+Name:Donut Stop,Score:11.285714285714286
+Name:Amma,Score:11.333333333333334
+Name:Alpha Donuts,Score:11.285714285714286
+Name:Gyro King,Score:11.285714285714286
+Name:Roti Corner Restaurant,Score:11.285714285714286
+Name:Bahari Estiatorio,Score:11.333333333333334
+Name:Chicken Holiday Express,Score:11.25
+Name:Koyzina Kafe,Score:11.25
+Name:Daniel'S Bagel,Score:11.25
+Name:Jake'S Steakhouse,Score:11.25
+Name:Capri Bakery,Score:11.25
+Name:Whiskey Park,Score:11.25
+Name:Roc Restaurant,Score:11.25
+Name:La Bonbonniere,Score:11.285714285714286
+Name:Numero 28 Pizzeria,Score:11.25
+Name:An Beal Bocht Cafe,Score:11.25
+Name:El Castillo De Madison,Score:11.25
+Name:Dunkin' Donuts/Baskin Robbins,Score:11.25
+Name:Cafe Rakka,Score:11.25
+Name:Mythos Restaurant,Score:11.25
+Name:Caesar'S Palace,Score:11.25
+Name:J & S Pizza,Score:11.25
+Name:Xtra Cheese Pizzeria,Score:11.25
+Name:The Usual Restaurant,Score:11.25
+Name:Mana,Score:11.25
+Name:La Locanda Restaurant,Score:11.25
+Name:Desmond'S Tavern,Score:11.25
+Name:Trattoria Romana,Score:11.25
+Name:Sammy'S Fishbox,Score:11.25
+Name:Hillside Gourmet,Score:11.25
+Name:Bagel Depot,Score:11.25
+Name:Ajisen Ramen,Score:11.25
+Name:Criminal Court Bldg Cafeteria,Score:11.25
+Name:Moran'S Chelsea,Score:11.25
+Name:Jerk Hut,Score:11.2
+Name:Tony'S Pizzeria,Score:11.222222222222221
+Name:White & Case,Score:11.25
+Name:Snack,Score:11.2
+Name:Ihop,Score:11.210526315789474
+Name:Cavallo'S Pizzeria,Score:11.2
+Name:Cara Mia,Score:11.2
+Name:Jimbos Hamburger Palace,Score:11.2
+Name:Scandals,Score:11.2
+Name:Seafood  City,Score:11.2
+Name:Cuchifrito,Score:11.2
+Name:Sushi Of Gari,Score:11.2
+Name:Arirang Hibachi Steak House,Score:11.2
+Name:Joya,Score:11.2
+Name:Da Silvano Restaurant,Score:11.2
+Name:Sardis Restaurant,Score:11.2
+Name:Barrage,Score:11.2
+Name:Romeo'S Pizzeria,Score:11.2
+Name:The Brook,Score:11.2
+Name:Tevere 84,Score:11.2
+Name:B.Q.E. Cafe Billiards,Score:11.2
+Name:Ebe Ye Yie African Restaurant,Score:11.2
+Name:Clinton Restaurant,Score:11.2
+Name:La Cabana Restaurant,Score:11.2
+Name:Las Isla Restaurant,Score:11.2
+Name:The Red Cat,Score:11.2
+Name:La Delice Pastry Shop,Score:11.2
+Name:Mulligan'S Pub,Score:11.166666666666666
+Name:Le Bernardin,Score:11.2
+Name:Bagel Cafe,Score:11.166666666666666
+Name:Castlehill Diner,Score:11.166666666666666
+Name:Pongsri Thai Restaurant,Score:11.166666666666666
+Name:Bottino,Score:11.166666666666666
+Name:Polanco'S,Score:11.166666666666666
+Name:Campus Eatery,Score:11.166666666666666
+Name:The Hytes Bar,Score:11.166666666666666
+Name:L & M Italian Deli & Catering,Score:11.166666666666666
+Name:Court Square Diner,Score:11.142857142857142
+Name:Donato'S Pizzeria Restaurant,Score:11.166666666666666
+Name:Ritz Diner,Score:11.142857142857142
+Name:Joshua Tree,Score:11.166666666666666
+Name:Ray'S Pizza,Score:11.11111111111111
+Name:Michael Jordan'S Steak House - In Grand Central,Score:11
+Name:Toast,Score:11.1
+Name:G.P. Diner,Score:11
+Name:Charlie'S Mom Chinese Restaurant,Score:11
+Name:Motivo,Score:11
+Name:Le Glacier,Score:11.166666666666666
+Name:Il Posto,Score:11
+Name:Tanjia Hukka Bar,Score:11
+Name:Crossbay Diner,Score:11
+Name:Glen Terrace,Score:11
+Name:Archives,Score:11
+Name:Jade Island Restaurant,Score:11
+Name:La Cabana,Score:11
+Name:Pitusa Bakery,Score:11
+Name:Housing Works Food,Score:11
+Name:Behan'S Pub,Score:11
+Name:Point Break,Score:11
+Name:La Mela Restaurant,Score:11
+Name:Ipanema Restaurant,Score:11
+Name:5 Burro Cafe,Score:11
+Name:Forlinis Restaurant,Score:11
+Name:Joe & Pat'S Pizzeria,Score:11
+Name:Create & Go,Score:11
+Name:Downtown Deli,Score:11
+Name:Tony'S Pier Restaurant,Score:11
+Name:O'Flanagan'S,Score:11
+Name:Tick Tock Diner,Score:11
+Name:Weiss Cafe Rockefeller University,Score:11
+Name:Trevi Deli,Score:11
+Name:Pasta Pasta Restaurant,Score:11
+Name:Johnny'S Bar,Score:11
+Name:Caribbean Sports,Score:11
+Name:Riazor Blue Tapas Bar,Score:11
+Name:Metro Coffee Shop @ Jetro,Score:11
+Name:John'S Pizza,Score:11
+Name:Booth Theater,Score:11
+Name:Afghan Kebab House #1,Score:11
+Name:Neary'S Pub,Score:11
+Name:Villa Mosconi Restaurant,Score:11
+Name:Danny Blaine,Score:11
+Name:Ghandi Cafe,Score:11
+Name:Arno Ristorante,Score:11
+Name:Sarabeth'S Kitchen,Score:11
+Name:Austin House,Score:11
+Name:Jing Fong Restaurant,Score:11
+Name:Acapulco Deli & Restaurant,Score:11
+Name:Bowler Land,Score:11
+Name:Porto Bello Restaurant,Score:11
+Name:Maruzzella,Score:11
+Name:Marquet Fine Pastry,Score:11
+Name:Knights Of Baron Dekalb,Score:11
+Name:Soho Grand Hotel,Score:11
+Name:Arka Lounge,Score:11
+Name:The Black Dog Grill,Score:11
+Name:Ford Foundation Cafeteria,Score:11
+Name:Appetito Restaurant,Score:11
+Name:Levain Bakery,Score:11
+Name:Pj Horgan'S Pub,Score:11
+Name:Fascati'S Pizzeria,Score:11
+Name:The Dead Poet,Score:11
+Name:Heights Cafe,Score:11
+Name:Don Giovanni Restaurant,Score:11
+Name:City Lobster & Steak,Score:11
+Name:Nocello,Score:11
+Name:Isla Restauraunt,Score:11
+Name:Supernova-Novotel Hotel,Score:11
+Name:Barney Greengrass,Score:11
+Name:Basta Pasta Restaurant,Score:11
+Name:Cafe Lou'S,Score:11
+Name:Craft,Score:11
+Name:Areo Restaurant,Score:11
+Name:Park Italian Gourment,Score:11
+Name:The Carnegie Cigar Club And Lounge,Score:11
+Name:The Stairs Bar And Lounge,Score:11
+Name:Chuck E Cheese'S,Score:11
+Name:Giando,Score:11
+Name:Cuchifritos,Score:11
+Name:Terrace On The Park,Score:11
+Name:Pisa Pizzeria,Score:11
+Name:Salumeria Beillese/ Biricchino Rest,Score:11
+Name:Karma,Score:11
+Name:Da Umberto Restaurant,Score:11
+Name:Cucina Vivolo,Score:11
+Name:Birdland,Score:11
+Name:Neuman'S,Score:11
+Name:Il Violino,Score:11
+Name:Clark'S Restaurant,Score:11
+Name:Utsav Festive India Restaurant,Score:11
+Name:Irish Punt,Score:11
+Name:Mezcal'S Restaurant,Score:11
+Name:Fordham University - Mcginley Center,Score:11
+Name:El Rey Mexican Restaurant,Score:11
+Name:Ozone Pizzeria,Score:11
+Name:Raj Mahal Indian Restaurant,Score:11
+Name:Eleni'S New York,Score:11
+Name:Norma'S, Burger Joint,Score:11
+Name:Tasty Cafe Catering,Score:11
+Name:Americas Burger And Wraps,Score:11
+Name:Ballfields Cafe,Score:11
+Name:Unique Lounge,Score:11
+Name:Russo'S Bakery,Score:11
+Name:Chen'S Chinese,Score:11
+Name:La Boina Roja Steak House,Score:11
+Name:Maloney'S Bar,Score:11
+Name:Mi Pueblito Bakery/Comida Tipica Mexicana,Score:11
+Name:Burgers & Cupcakes,Score:11
+Name:Ryan Maguire'S Bar & Restaurant,Score:11
+Name:Tom And Jerry Bar,Score:11
+Name:New Hing Restaurant,Score:11
+Name:John'S Donut & Coffee Shop,Score:11
+Name:Best Deli Cafe,Score:11
+Name:M. Restaurant,Score:11
+Name:Afternoone'S Restaurant,Score:11
+Name:J And D Pizza,Score:11
+Name:Lenny'S Pizza,Score:10.88888888888889
+Name:Lucien Restauraunt,Score:11
+Name:Omonia Cafe,Score:10.88888888888889
+Name:Azusa Of Japan,Score:11
+Name:Diner,Score:11
+Name:Happy Garden,Score:10.875
+Name:Cafe Ronda,Score:10.857142857142858
+Name:Bangal Curry,Score:10.833333333333334
+Name:Valentino'S Pizza,Score:10.833333333333334
+Name:Towers Restaurant,Score:10.833333333333334
+Name:El Charro Bakery,Score:10.833333333333334
+Name:Peacock Restaurant,Score:10.857142857142858
+Name:Don Filippo Restaurant,Score:10.833333333333334
+Name:El Centro,Score:10.833333333333334
+Name:Mumbles,Score:10.833333333333334
+Name:West Cuisine-Enchantment By Maria,Score:10.833333333333334
+Name:Townhouse Diner,Score:10.833333333333334
+Name:A & B Deli & Catering,Score:10.833333333333334
+Name:Caffe Napoli,Score:10.833333333333334
+Name:Auntie Anne'S Pretzels,Score:10.833333333333334
+Name:Le Singe Vert,Score:10.833333333333334
+Name:Rocco'S Calamari,Score:10.833333333333334
+Name:Andrews Coffee Shop,Score:10.833333333333334
+Name:Molly Wee Pub,Score:10.833333333333334
+Name:Alice'S Tea Cup,Score:10.833333333333334
+Name:Trattoria Alba,Score:10.8
+Name:Madiba,Score:10.833333333333334
+Name:Manor House Restaurant,Score:10.8
+Name:Winchesters Pub,Score:10.8
+Name:Bay Ridge Manor Catering,Score:10.8
+Name:Cafe Atelier (Art Students League),Score:10.8
+Name:Bijan'S,Score:10.8
+Name:Finestra,Score:10.8
+Name:Ciro'S Pizza Restaurant,Score:10.8
+Name:Broadway Station,Score:10.8
+Name:Tribeca Pizzeria,Score:10.8
+Name:Three Of Cups,Score:10.8
+Name:Twins Pub,Score:10.8
+Name:Riverhead Gentlemen'S Club,Score:10.8
+Name:Track Kitchen,Score:10.8
+Name:Ethos Greek Cuisine,Score:10.8
+Name:Bill'S Restaurant,Score:10.8
+Name:Pasha Turkish Restaurant,Score:10.8
+Name:Cleopatra'S Needle,Score:10.8
+Name:Roll-N-Roaster,Score:10.8
+Name:Friars National Assoc.,Score:10.8
+Name:Frost Restaurant,Score:10.8
+Name:Emilia'S Restaurant,Score:10.8
+Name:Pizza Hut/Wing Street,Score:10.8
+Name:Silver Spurs/Molcajate Taqueria,Score:10.8
+Name:Burek'S Pizza,Score:10.8
+Name:China Glatt,Score:10.8
+Name:Campagnola Restaurant,Score:10.8
+Name:Amazon Cafe,Score:10.8
+Name:Andre'S Hungarian,Score:10.8
+Name:Tommaso Restaurant,Score:10.8
+Name:Cabana,Score:10.8
+Name:Big Bar,Score:10.8
+Name:King'S Arms Restaurant,Score:10.8
+Name:Olive Garden Italian Restaurant,Score:10.8
+Name:Landmark Coffee Shop,Score:10.8
+Name:Fresco On The Go,Score:10.8
+Name:Paddy'S Reilly'S Bar,Score:10.75
+Name:Deb'S,Score:10.75
+Name:Steinway Billiard,Score:10.8
+Name:Gargiulo'S Restaurant,Score:10.75
+Name:China New Star,Score:10.75
+Name:Steve'S Coffee Shop,Score:10.75
+Name:The Fitz,Score:10.75
+Name:Susie'S Pies,Score:10.75
+Name:Mccoy'S Pub,Score:10.75
+Name:Roccos Pizza,Score:10.75
+Name:Club 101,Score:10.75
+Name:O'Reilly'S Pub,Score:10.75
+Name:Crab Shanty,Score:10.75
+Name:Cho Dang Gol,Score:10.75
+Name:Astra,Score:10.75
+Name:Ayurveda Cafe,Score:10.75
+Name:Snafu,Score:10.75
+Name:Pizza Palace,Score:10.75
+Name:Don Alex Restaurant,Score:10.75
+Name:Sistina Restaurant,Score:10.75
+Name:Greenhouse Cafe (557 Broaday) Scholastic Building,Score:10.75
+Name:Three Guy'S Restaurant,Score:10.75
+Name:Two Boots To Go-Go,Score:10.75
+Name:Teddy'S Bar And Grill,Score:10.75
+Name:Sean Og,Score:10.75
+Name:Reade Street Pub & Kitchen,Score:10.75
+Name:Jp Morgan Chase Bank Cafeteria,Score:10.75
+Name:Mr. Chow Restaurant,Score:10.75
+Name:Langans Bar & Restaurant,Score:10.75
+Name:La Villa De Pizza & Restaurant,Score:10.75
+Name:Connolly'S Pub,Score:10.75
+Name:Sarajevo Fast Food,Score:10.75
+Name:El Mariachi Restaurant,Score:10.75
+Name:Yolanda Pizzeria Restaurant,Score:10.75
+Name:The Historic Old Bermuda Inn,Score:10.75
+Name:Tio Pepe,Score:10.75
+Name:Sparks Steak House,Score:10.75
+Name:Jolly Tinker,Score:10.75
+Name:Murphy'S Pub & Restaurant,Score:10.714285714285714
+Name:Palm Restaurant,Score:10.7
+Name:Lucky Star Cafe,Score:10.666666666666666
+Name:Silver Star Restaurant,Score:10.666666666666666
+Name:Cafe Zaiya,Score:10.714285714285714
+Name:Mcsorley'S Old Ale House,Score:10.666666666666666
+Name:Perfecto Pizza & Coffee Shop,Score:10.666666666666666
+Name:Pizza 33,Score:10.666666666666666
+Name:Bridgeview Diner,Score:10.666666666666666
+Name:The Clubhouse,Score:10.666666666666666
+Name:Chickpea,Score:10.666666666666666
+Name:Warren Hall Coffee Bar,Score:10.666666666666666
+Name:Ferris Booth Commons - Alfred Lerner Hall,Score:10.666666666666666
+Name:Essex,Score:10.666666666666666
+Name:Cipriani Downtown Restaurant,Score:10.666666666666666
+Name:Fella'S Bar,Score:10.666666666666666
+Name:La Grenouille,Score:10.666666666666666
+Name:Harriet'S Kitchen,Score:10.666666666666666
+Name:Amsterdam Billiards,Score:10.666666666666666
+Name:Sakagura,Score:10.666666666666666
+Name:Cafe Cardini,Score:10.666666666666666
+Name:Torch Club,Score:10.666666666666666
+Name:Dunkin' Donuts Baskin Robbins,Score:10.666666666666666
+Name:Highlands Cafe Restaurant,Score:10.666666666666666
+Name:Nelly'S Corner Pizzeria Restaurant,Score:10.666666666666666
+Name:O'Sullivan'S Pub,Score:10.666666666666666
+Name:New Andy'S Deli,Score:10.666666666666666
+Name:La Ripaille Restaurant,Score:10.666666666666666
+Name:Amore Pizzeria & Restaurant,Score:10.666666666666666
+Name:Blimpie,Score:10.625
+Name:Baby Bo'S Burritos,Score:10.666666666666666
+Name:Diamante Poblano Restaurant,Score:10.6
+Name:Lorenzos Bar & Grill (Hilton Garden),Score:10.666666666666666
+Name:Gallagher'S 2000,Score:10.6
+Name:Ciros Pastry Shop,Score:10.6
+Name:Womens Natl. Republican Club,Score:10.6
+Name:The Great American Health Bar,Score:10.6
+Name:Alta,Score:10.6
+Name:Short Stop Restaurant,Score:10.6
+Name:Sugar City Bakery,Score:10.6
+Name:Kimchee Korean Restaurant,Score:10.6
+Name:Bistro Citron,Score:10.6
+Name:Canyon Road Grill,Score:10.6
+Name:Laterna Taverna,Score:10.6
+Name:La Gioconda,Score:10.6
+Name:Forest Hills Coffe Shop,Score:10.6
+Name:101 Restaurant And Bar,Score:10.6
+Name:Quatorze Bistro,Score:10.6
+Name:Lazzaras Pizza Cafe,Score:10.6
+Name:Polito'S Pizza,Score:10.6
+Name:Nick Garden Coffee Shop,Score:10.6
+Name:The Four Seasons,Score:10.6
+Name:Corner Gourmet Ii,Score:10.6
+Name:Plaza Lounge,Score:10.6
+Name:The Pizza Place,Score:10.6
+Name:Nicola'S Restaurant,Score:10.6
+Name:The Park Slope Chipshop,Score:10.6
+Name:Rosa Mexicano,Score:10.6
+Name:Three Jolly Pigeons,Score:10.6
+Name:Club Macanudo (Cigar Bar),Score:10.6
+Name:Goody'S Bbq,Score:10.6
+Name:Sugar Bun Bakery,Score:10.6
+Name:Gino'S Pizzeria,Score:10.583333333333334
+Name:Caffe Reggio,Score:10.6
+Name:George Keeley,Score:10.6
+Name:Boulevard Tavern,Score:10.555555555555555
+Name:Broadway Pizza & Pasta,Score:10.571428571428571
+Name:Tribeca Park Cafe,Score:10.571428571428571
+Name:Coogan'S,Score:10.5
+Name:Dream Pizza,Score:10.571428571428571
+Name:Madame Tussaud'S,Score:10.5
+Name:Carmine'S,Score:10.555555555555555
+Name:Bowery Eletric,Score:10.5
+Name:Istanbul Restaurant,Score:10.5
+Name:Petite Abeille,Score:10.5
+Name:Bono'S Cafe,Score:10.5
+Name:Madison Square,Score:10.5
+Name:Carlos Pizza,Score:10.5
+Name:Doc Watsons,Score:10.5
+Name:Springfield Diner,Score:10.5
+Name:The Bras & Pail Bar,Score:10.5
+Name:Malachy'S,Score:10.5
+Name:La Lechonera Criolla,Score:10.5
+Name:Bombay Masala,Score:10.5
+Name:La Flor Bakery Cafe,Score:10.5
+Name:Footprints Cafe,Score:10.5
+Name:The Wheeltapper,Score:10.5
+Name:Estancia 460,Score:10.5
+Name:Kunjip Restaurant,Score:10.5
+Name:Hanson Restaurant And Pizzeria,Score:10.5
+Name:Virgil'S Bbq,Score:10.5
+Name:Three Decker Restaurant,Score:10.5
+Name:Bar Coastal,Score:10.5
+Name:Delta Grill,Score:10.5
+Name:Lucho'S Place,Score:10.5
+Name:John'S Pizzeria,Score:10.5
+Name:Cafe 212/Columbia Catering Kitchen - Alfred Lerner Hall,Score:10.5
+Name:Crescent Corner,Score:10.5
+Name:Lucky Strike,Score:10.5
+Name:Broadway Dive,Score:10.5
+Name:Creative Edge Caterers,Score:10.5
+Name:Tarallucci E Vino,Score:10.5
+Name:The Tap Room,Score:10.5
+Name:Sing Sing Karaoke,Score:10.5
+Name:Capitol Restaurant,Score:10.5
+Name:Kosher Island,Score:10.5
+Name:Cafe Luluc,Score:10.5
+Name:Fine & Shapiro,Score:10.5
+Name:Moti'S,Score:10.5
+Name:Private Eyes,Score:10.5
+Name:Pahal Zan Restaurant,Score:10.5
+Name:Buzz,Score:10.5
+Name:Evodio'S Place,Score:10.5
+Name:Jaiya Thai Oriental Restaurant,Score:10.5
+Name:Vinny'S Famous Pizza,Score:10.5
+Name:Yao Wah Kitchen,Score:10.5
+Name:3 Guys Resturant,Score:10.5
+Name:Cinema The Brasserie,Score:10.5
+Name:The Whiskey Ward,Score:10.5
+Name:Jahn'S Restaurant,Score:10.5
+Name:Cobblestone Pub,Score:10.5
+Name:Caffe Buon Gusto,Score:10.5
+Name:Steve'S Bakery,Score:10.5
+Name:T.G.I. Friday'S,Score:10.444444444444445
+Name:Nectar Coffee Shop,Score:10.428571428571429
+Name:Pascalou,Score:10.5
+Name:Tsq Brasserie,Score:10.5
+Name:Seville Restaurant,Score:10.4
+Name:Thomas Preti Caterers,Score:10.4
+Name:Panya/The Barrel,Score:10.4
+Name:Anyway Cafe,Score:10.4
+Name:Cozy Soup & Burger,Score:10.4
+Name:Fountain Of Youth Health Spa Juice Bar & Dinner,Score:10.4
+Name:Tequila Sunrise,Score:10.4
+Name:Maria Ristorante,Score:10.428571428571429
+Name:Deli Plus ( Inside Port Authority Station),Score:10.4
+Name:Caffe Grazie,Score:10.4
+Name:Little Italy Pizza,Score:10.4
+Name:American Museum Of Natural History Food Court,Score:10.4
+Name:Sylvia'S Restaurant,Score:10.4
+Name:Hatsuhana Restaurant,Score:10.4
+Name:Mama Carmela'S,Score:10.4
+Name:Yonah Shimmels Knishes,Score:10.4
+Name:Picanteria El Austro,Score:10.4
+Name:Green House Cafe,Score:10.4
+Name:Manetta'S Ristorante,Score:10.4
+Name:Plug Uglies,Score:10.4
+Name:101 Deli,Score:10.4
+Name:Blarney Bar,Score:10.4
+Name:New Corner,Score:10.4
+Name:Fratelli Pizza,Score:10.4
+Name:Sammy'S Steakhouse,Score:10.4
+Name:Perry'S Restaurant,Score:10.4
+Name:Ipanema Bar,Score:10.4
+Name:Cafe Steinhof,Score:10.4
+Name:Colonnade Diner,Score:10.4
+Name:The Grotto,Score:10.4
+Name:Bad Boys Pizza,Score:10.4
+Name:Montero Bar & Grill,Score:10.4
+Name:Yb Food Market,Score:10.4
+Name:New China Kitchen,Score:10.4
+Name:China Grill,Score:10.4
+Name:The Courtyard Ale House,Score:10.4
+Name:Salty Dog Restaurant,Score:10.4
+Name:Palma,Score:10.4
+Name:Pinocchios,Score:10.4
+Name:Pizza Italia 1,Score:10.333333333333334
+Name:Shubert Theater,Score:10.4
+Name:Stage Door Deli,Score:10.333333333333334
+Name:Domino'S Pizza,Score:10.362162162162162
+Name:Cafe Rustico Ii,Score:10.333333333333334
+Name:Alfonso'S Pastry Shoppe,Score:10.333333333333334
+Name:Peking Restaurant,Score:10.333333333333334
+Name:S Dynasty,Score:10.333333333333334
+Name:Mrs Friggins' Kitchen,Score:10.333333333333334
+Name:Fordham University/Mcginley Center/Ramskeller Kitchen,Score:10.333333333333334
+Name:Puritan Restaurant,Score:10.333333333333334
+Name:Flash Dancers,Score:10.333333333333334
+Name:Roca Tone Seafood Restaurant,Score:10.333333333333334
+Name:Bagels Etc,Score:10.333333333333334
+Name:Connolly'S Corner,Score:10.333333333333334
+Name:Catania'S Pizza Cafe,Score:10.333333333333334
+Name:New Parkway Restaurant,Score:10.333333333333334
+Name:Johnny Mack'S Bar,Score:10.333333333333334
+Name:Trufa Restaurant,Score:10.333333333333334
+Name:Delight Donut,Score:10.333333333333334
+Name:Billymarks West,Score:10.333333333333334
+Name:Dosa Hutt,Score:10.333333333333334
+Name:Kids 'N' Action,Score:10.333333333333334
+Name:Pietros,Score:10.333333333333334
+Name:Village Pizza,Score:10.333333333333334
+Name:Thalia,Score:10.333333333333334
+Name:Verona Pizza,Score:10.333333333333334
+Name:Europa Night Club,Score:10.333333333333334
+Name:Luigi'S Restaurant,Score:10.333333333333334
+Name:Chop'T,Score:10.333333333333334
+Name:Subway,Score:10.333333333333334
+Name:J.R'S Cabaret,Score:10.333333333333334
+Name:Circle'S Grill,Score:10.333333333333334
+Name:Glen Patrick'S Pub,Score:10.3
+Name:Caffe Egidio,Score:10.285714285714286
+Name:New York University - Snow Dining,Score:10.333333333333334
+Name:All American Deli,Score:10.285714285714286
+Name:Yummy Kitchen,Score:10.285714285714286
+Name:Sahara Restaurant,Score:10.285714285714286
+Name:Morningstar Restaurant,Score:10.285714285714286
+Name:Roti Boti Restaurant,Score:10.285714285714286
+Name:Terranova'S Bake Ridge Bagel,Score:10.285714285714286
+Name:New Park Pizzeria & Restaurant,Score:10.25
+Name:Mayer, Brown & Platt,Score:10.25
+Name:Tal Bagels Deli,Score:10.333333333333334
+Name:Pier 72 Restaurant,Score:10.25
+Name:Hillstone Manhattan,Score:10.25
+Name:Ten-Tan Chinese Restaurant,Score:10.25
+Name:Tamaqua,Score:10.25
+Name:Lahore Delicatessen,Score:10.25
+Name:Swiss International Airlines Lounge,Score:10.25
+Name:Patsy'S Italian Restaurant,Score:10.25
+Name:Fifth Ave Cafe /Diner,Score:10.25
+Name:Cousin John'S Cafe And Bakery,Score:10.25
+Name:Full Moon Pizza,Score:10.25
+Name:Kitchenette Uptown,Score:10.25
+Name:The Aurora Pizza Caffe,Score:10.25
+Name:Pangea Restaurant,Score:10.25
+Name:Nobu Next Door,Score:10.25
+Name:Renaissance Hotel,Score:10.25
+Name:Geido Restaurant,Score:10.25
+Name:Max Soha,Score:10.25
+Name:Uncle Peter'S,Score:10.25
+Name:Verlaine,Score:10.25
+Name:O'Hanlon'S,Score:10.25
+Name:The Stumble Inn,Score:10.25
+Name:Red Flame Diner,Score:10.25
+Name:Villa Rustica Ristorante,Score:10.25
+Name:Caffe Roma,Score:10.25
+Name:Tiberio Dimare,Score:10.25
+Name:Lung Moon Bakery,Score:10.25
+Name:Masawa,Score:10.25
+Name:Claddagh Inn,Score:10.25
+Name:Philadelhia Grille Express,Score:10.25
+Name:The Lowell,Score:10.25
+Name:Kew Gardens Cinemas,Score:10.25
+Name:Lucky House Chinese Kitchen,Score:10.25
+Name:Moms Luncheonette,Score:10.25
+Name:Cafe Mae Mae,Score:10.25
+Name:Kinsale Tavern,Score:10.25
+Name:Step In Restaurant & Lounge,Score:10.25
+Name:Denny'S Pub,Score:10.25
+Name:San Martin,Score:10.25
+Name:Broome Street Bar,Score:10.25
+Name:Crosstown Diner,Score:10.25
+Name:Studio 46,Score:10.25
+Name:The Original Pizza Iv,Score:10.25
+Name:Balthazar Restaurant,Score:10.2
+Name:Haru Sake Bar,Score:10.2
+Name:Post Billiards Cafe,Score:10.25
+Name:Hot & Crusty Bagels Cafe,Score:10.2
+Name:Dairy Luncheonette,Score:10.2
+Name:Pitkin Caribbean Bakery,Score:10.2
+Name:Frankie & Johnnies Steakhouse,Score:10.2
+Name:Liberato Restaurant,Score:10.2
+Name:Giorgio'S Of Gramercy,Score:10.2
+Name:Kelly'S Restaurant & Pizza,Score:10.2
+Name:Phillies Pizzeria Ii,Score:10.2
+Name:Failte,Score:10.2
+Name:Tokubei 86,Score:10.2
+Name:Phil & Sons Restaurant & Pizzeria,Score:10.2
+Name:The Triple Crown,Score:10.2
+Name:Il Cortile Restaurant,Score:10.2
+Name:The Otheroom,Score:10.2
+Name:Pj Carney'S,Score:10.2
+Name:Tartine,Score:10.2
+Name:Labella Ferrara,Score:10.2
+Name:Manhattan Monster,Score:10.2
+Name:Randazzo'S Clam Bar,Score:10.2
+Name:Mozzarella & Vino,Score:10.2
+Name:Osteria Laguna,Score:10.2
+Name:Henny'S Restaurant,Score:10.2
+Name:Pronto Pizza,Score:10.2
+Name:O'Nieals,Score:10.2
+Name:Kelly'S Tavern,Score:10.2
+Name:Taste Restaurant,Score:10.2
+Name:Healy'S Pub,Score:10.2
+Name:Tajin Restaurant,Score:10.2
+Name:Da Vinci Pizza,Score:10.2
+Name:Rodeo Grill,Score:10.2
+Name:Jake'S Dilemma,Score:10.2
+Name:Continental Luncheonette & Deli,Score:10.2
+Name:Vivienne'S,Score:10.2
+Name:Pam'S Bakery,Score:10.166666666666666
+Name:Lindenwood Diner,Score:10.166666666666666
+Name:Sac'S Pizza Place,Score:10.166666666666666
+Name:Vegas Diner,Score:10.166666666666666
+Name:Hamilton Deli,Score:10.166666666666666
+Name:Bits Bite & Baguettes,Score:10.166666666666666
+Name:The Bread Factory Cafe,Score:10.2
+Name:Broadway Theatre,Score:10.166666666666666
+Name:Lucky Pizza,Score:10.166666666666666
+Name:Gramercy Cafe,Score:10.166666666666666
+Name:Nelly'S Cafe,Score:10.166666666666666
+Name:Blue Mountain Restaurant & Jerk Center,Score:10.142857142857142
+Name:Kelley & Ping,Score:10.142857142857142
+Name:Almar,Score:10.142857142857142
+Name:Burger King,Score:10.005555555555556
+Name:Cafe Mogador,Score:10.166666666666666
+Name:Brasserie Les Halles,Score:10
+Name:Eatery Restaurant,Score:10
+Name:Nb. National Bakery,Score:10
+Name:Keenans,Score:10
+Name:Wilken'S Fine Food,Score:10
+Name:Tokya,Score:10
+Name:Casa Promesa,Score:10
+Name:Atlantis Diner,Score:10
+Name:Al Forno,Score:10
+Name:Bais Rochel,Score:10
+Name:Astoria Bagel Shop,Score:10
+Name:Sullivan & Cromwell,Score:10
+Name:Bar Association Of The City Of Ny Kitchen,Score:10
+Name:Rocking Horse Cafe,Score:10
+Name:Whitestone Bagel Factory,Score:10
+Name:Ellen'S Stardust Diner,Score:10
+Name:Island Shores,Score:10
+Name:Burrito Box,Score:10
+Name:Touch Of Dee'S,Score:10
+Name:Fisherman'S Cove,Score:10
+Name:Hillstone'S,Score:10
+Name:Va Bene,Score:10
+Name:Chicken Delicious,Score:10
+Name:Royal Bakery & Roti Shop,Score:10
+Name:Cornelia Street Cafe,Score:10
+Name:Henry St. Ale House,Score:10
+Name:Manna One Bakery,Score:10
+Name:Hapisgah Restaurant,Score:10
+Name:Don Paco  Lopez Panderia,Score:10
+Name:Caffe Vivaldi,Score:10
+Name:Taco Bell, Au Bon Pain,Score:10
+Name:Barbetta Restaurant,Score:10
+Name:Bagel House,Score:10
+Name:View Restaurant,Score:10
+Name:Marriott Marquis - Main Kitchen,Score:10
+Name:Andrew'S Coffee Shop,Score:10
+Name:Frank'S Soup Bowl,Score:10
+Name:Manny'S Grill,Score:10
+Name:Paneantico Bakery,Score:10
+Name:Glenlo Tavern,Score:10
+Name:Iggy'S,Score:10
+Name:Bel Paese Italian Deli,Score:10
+Name:The Gin Mill,Score:10
+Name:Ashby'S Specialty,Score:10
+Name:War Memorial Ice Skating Rink,Score:10
+Name:Db Bistro Moderne,Score:10
+Name:Joe'S Pub,Score:10
+Name:Dragon City,Score:10
+Name:Triangolo Pizzeria,Score:10
+Name:Il Mulino,Score:10
+Name:Le Charlot,Score:10
+Name:Cowgirl Hall Of Fame,Score:10
+Name:Utopia Restaurant,Score:10
+Name:Kosher Bagel Hole,Score:10
+Name:Oriental Palace Kitchen,Score:10
+Name:Golden Pavillion,Score:10
+Name:Choy Le Chinese Restaurant,Score:10
+Name:Hogs & Heifers,Score:10
+Name:Metro Grill,Score:10
+Name:Peter Luger Steakhouse,Score:10
+Name:V & S Pizzeria Of Sheapshead Bay,Score:10
+Name:Cafe K,Score:10
+Name:Hi Life Bar & Grill,Score:10
+Name:V & V Bakery,Score:10
+Name:Bread Market Cafe,Score:10
+Name:Banshee Pub,Score:10
+Name:Salvi Restaurant,Score:10
+Name:Edward'S,Score:10
+Name:Kebab House,Score:10
+Name:Carry On Tea & Sympathy,Score:10
+Name:Barbaresco,Score:10
+Name:Carol'S Cafe,Score:10
+Name:Wood Bine Caterers,Score:10
+Name:Narita Japanese Restaurant,Score:10
+Name:Regency Hotel,Score:10
+Name:Sally & George'S Place,Score:10
+Name:Do Hwa,Score:10
+Name:Guastavino'S,Score:10
+Name:Parma Restaurant,Score:10
+Name:Pizza Express,Score:10
+Name:Glendale Pizza,Score:10
+Name:Noho Star Restaurant,Score:10
+Name:Paradise Caterers,Score:10
+Name:Copper Kettle,Score:10
+Name:Harvard Club,Score:10
+Name:Braulio'S & Family Restaurant,Score:10
+Name:Bubby'S,Score:10
+Name:Mike'S Pizza,Score:10
+Name:Azalea,Score:10
+Name:Funtopia Usa,Score:10
+Name:Lenny'S Bagels,Score:10
+Name:Boston Market,Score:9.984375
+Name:Berkely,Score:10
+Name:Country Donuts,Score:9.88888888888889
+Name:Rincon Salvadoreno Restaurant,Score:9.857142857142858
+Name:Tous Les Jours,Score:9.846153846153847
+Name:Igloo Ice Cream Cafe,Score:9.857142857142858
+Name:Food Fair Deli & Pizza,Score:9.857142857142858
+Name:Ise Japanese Restaurant,Score:9.833333333333334
+Name:Devon & Blakely,Score:9.842105263157896
+Name:Lin'S Garden,Score:9.833333333333334
+Name:Andrew'S Diner,Score:9.857142857142858
+Name:Ifh El Buffet Restaurant  Alberto'S Mofongo House,Score:9.833333333333334
+Name:Hunter'S Steak & Ale House,Score:9.833333333333334
+Name:Lace,Score:9.833333333333334
+Name:Ponticello Restaurant,Score:9.833333333333334
+Name:Mcquaids Public House,Score:9.833333333333334
+Name:Kosher Deluxe,Score:9.833333333333334
+Name:Doral Donuts,Score:9.833333333333334
+Name:Cafe Orlin,Score:9.833333333333334
+Name:Rosebank Tavern,Score:9.833333333333334
+Name:Jennifer'S Restaurant,Score:9.833333333333334
+Name:Astromundo Restaurant,Score:9.833333333333334
+Name:Victory Sweet Shop,Score:9.833333333333334
+Name:Keats Restaurant,Score:9.8
+Name:Le Pain Quotidien,Score:9.833333333333334
+Name:Pete'S Tavern,Score:9.8
+Name:Popeyes Chicken & Biscuits,Score:9.82
+Name:Irish Eye Bar,Score:9.8
+Name:Africana Restaurant,Score:9.8
+Name:Champ Gourmet,Score:9.8
+Name:C.U.N.Y Cafe,Score:9.8
+Name:Hudson Bar And Books,Score:9.8
+Name:Pine Bar & Grill,Score:9.8
+Name:Paradise Alley Bar,Score:9.8
+Name:Nusbaum & Wu,Score:9.8
+Name:Pellegrino'S,Score:9.8
+Name:Dennis' Place,Score:9.8
+Name:Pazza Notte,Score:9.8
+Name:Wheelers,Score:9.8
+Name:The Black Sheep,Score:9.8
+Name:Isle Of Capri Resturant,Score:9.8
+Name:Cafe Joul,Score:9.8
+Name:Bedford Cafe & Restaurant,Score:9.8
+Name:Rue 57,Score:9.8
+Name:Marios Pizzeria,Score:9.8
+Name:C & B Luncheonette,Score:9.8
+Name:Renato'S Pastry Shop,Score:9.8
+Name:Re: Sources,Score:9.8
+Name:Deacon Brodie'S,Score:9.8
+Name:Alibi Club,Score:9.8
+Name:Pizza Wagon,Score:9.8
+Name:Sisters Cuisine,Score:9.8
+Name:Junior'S Cafe,Score:9.8
+Name:A Salt & Battery,Score:9.8
+Name:Manny'S Cafe Family Restaurant,Score:9.75
+Name:Pizza Den,Score:9.75
+Name:Great Wall Restaurant,Score:9.777777777777779
+Name:Grano Trattoria,Score:9.75
+Name:Vincents Bagel,Score:9.75
+Name:Judge Roy Bean,Score:9.75
+Name:Turkey'S Nest Tavern,Score:9.75
+Name:Le Monde,Score:9.75
+Name:Marseille,Score:9.75
+Name:City Chow Cafe,Score:9.75
+Name:Mejlander & Mulgannon,Score:9.75
+Name:Smoke,Score:9.75
+Name:Pongal Indian Cuisine,Score:9.75
+Name:Courtyard By Marriott,Score:9.75
+Name:China Wok Ii,Score:9.75
+Name:Carleton Lounge - Mudd Building,Score:9.75
+Name:Prune,Score:9.75
+Name:Quentin Pizza,Score:9.75
+Name:Sanpanino,Score:9.75
+Name:Sea Gate Beach Club,Score:9.75
+Name:Dunkin' Donuts  Baskin Robbins,Score:9.75
+Name:The Muffins Shop,Score:9.75
+Name:Caffee Express,Score:9.75
+Name:Taste Of India Ii Restaurant,Score:9.75
+Name:Gourmet Grill,Score:9.75
+Name:Zebu Grill,Score:9.75
+Name:Dave'S Tavern,Score:9.75
+Name:Mercer Kitchen,Score:9.75
+Name:The Place,Score:9.75
+Name:Manna Restaurant Ii,Score:9.714285714285714
+Name:Yankee Jz Pizza,Score:9.714285714285714
+Name:Supper,Score:9.714285714285714
+Name:Coffee Shop,Score:9.692307692307692
+Name:Cafe Amore'S Restaurant,Score:9.714285714285714
+Name:El Nuevo Ambiente Restaurant,Score:9.666666666666666
+Name:Tal Bagel,Score:9.666666666666666
+Name:Air France Lounge,Score:9.666666666666666
+Name:Seven Bar & Grill,Score:9.666666666666666
+Name:French Roast,Score:9.727272727272727
+Name:Fabiane'S Cafe & Pastry,Score:9.666666666666666
+Name:111 Restaurant,Score:9.75
+Name:Ferrara'S,Score:9.666666666666666
+Name:Shenanigan'S,Score:9.666666666666666
+Name:Starbucks Coffee # 7463,Score:9.666666666666666
+Name:3 Deli & Grill,Score:9.666666666666666
+Name:Cucina Gourmet,Score:9.666666666666666
+Name:Exclusive Catering,Score:9.666666666666666
+Name:Hyatt, Ny Central/Room Service,Score:9.666666666666666
+Name:New Wah Kitchen,Score:9.666666666666666
+Name:La Bonne Soupe Bistro,Score:9.666666666666666
+Name:Jack'S Restaurant & Bar,Score:9.666666666666666
+Name:San German Cuchifrito,Score:9.666666666666666
+Name:Jody'S Club,Score:9.666666666666666
+Name:La Picada Azuaya Restaurant,Score:9.666666666666666
+Name:Lenox Hill Grill/Pizza,Score:9.666666666666666
+Name:Fordham University - Ram Cafeteria,Score:9.666666666666666
+Name:J 'S Pizza,Score:9.666666666666666
+Name:Caffe Linda,Score:9.666666666666666
+Name:Sancho'S Restaurant,Score:9.666666666666666
+Name:Zum Schneider,Score:9.666666666666666
+Name:Cooper Town Diner,Score:9.666666666666666
+Name:Salvatore And Lloyd'S Pizza,Score:9.666666666666666
+Name:Sheepshead Bay Yacht Club Bar,Score:9.666666666666666
+Name:Knickerbocker Club,Score:9.666666666666666
+Name:Cho-Sen Garden,Score:9.666666666666666
+Name:Sushi Zen,Score:9.666666666666666
+Name:Double Dragon,Score:9.666666666666666
+Name:Don Pepi Pizza,Score:9.666666666666666
+Name:Raouls,Score:9.6
+Name:Blue Bay Restaurant,Score:9.625
+Name:El Familar Restaurant,Score:9.625
+Name:Hungarian Pastry Shop,Score:9.6
+Name:Hell'S Kitchen,Score:9.6
+Name:Pat'S Stationary,Score:9.6
+Name:Kings Carriage House,Score:9.6
+Name:Divers Cove,Score:9.6
+Name:The Harrison,Score:9.6
+Name:Science Cafe (Queensborough  Community College),Score:9.6
+Name:Market Cafe,Score:9.6
+Name:Jake'S,Score:9.6
+Name:Bagel Works,Score:9.6
+Name:Regina Caterers,Score:9.6
+Name:Ihawan,Score:9.6
+Name:Dagan Pizza,Score:9.6
+Name:The Bowery Ballroom,Score:9.6
+Name:Westside Restaurant,Score:9.6
+Name:American Hero & Sub'S,Score:9.6
+Name:Euro Pizza,Score:9.6
+Name:Lupe'S East L.A. Kitchen,Score:9.6
+Name:Delmonicos,Score:9.6
+Name:Court Order,Score:9.6
+Name:Vice Versa,Score:9.6
+Name:Ballato'S Restaurant,Score:9.6
+Name:City Chow Cafe V (Equinox),Score:9.6
+Name:Primo Amore,Score:9.6
+Name:Nacional Bakery #1,Score:9.6
+Name:La Nueva Victoria Restaurant,Score:9.571428571428571
+Name:Wah Do Mr. Chan'S Restaurant,Score:9.6
+Name:Oriental Star Restaurant,Score:9.571428571428571
+Name:44 & X Hell'S Kitchen,Score:9.5
+Name:Au Bon Pain,Score:9.518518518518519
+Name:Taj Donut Shop,Score:9.571428571428571
+Name:Korean Lounge,Score:9.5
+Name:Luke'S Bar & Grill,Score:9.5
+Name:Mario'S Restaurant,Score:9.5
+Name:Kfc/Taco Bell,Score:9.5
+Name:Danny'S Pizzeria Ii,Score:9.5
+Name:Lucia Pizza,Score:9.5
+Name:Skadden Arps, Slate,Score:9.5
+Name:Wine Bar,Score:9.5
+Name:Lords Bakery,Score:9.5
+Name:Russia Vodka Room,Score:9.5
+Name:Restuarant Nippon,Score:9.5
+Name:Brioso Ristorante,Score:9.5
+Name:Chadash Falafel & Pizza,Score:9.5
+Name:Erin'S Isle,Score:9.5
+Name:Luigi'S Pizzeria,Score:9.5
+Name:Le Gigot,Score:9.5
+Name:New York University - Law School,Score:9.5
+Name:El Pollo Peruano,Score:9.5
+Name:Aladdin,Score:9.5
+Name:Via Quadronno,Score:9.5
+Name:Le Paris Bistrot Francais,Score:9.5
+Name:Doc Holidays,Score:9.5
+Name:The Islands,Score:9.5
+Name:Sony Music Employee Cafeteria,Score:9.5
+Name:Rocky'S Pizza Restaurant,Score:9.5
+Name:Grand Avenue Pizza,Score:9.5
+Name:El Nuevo Amanecer Restaurant,Score:9.5
+Name:Souvlaki House,Score:9.5
+Name:Dragon Land Bakery,Score:9.5
+Name:Macelleria Restaurant,Score:9.5
+Name:10Th Avenue Pizza & Cafe,Score:9.5
+Name:Pan Fino,Score:9.5
+Name:The Riviera Cafe,Score:9.5
+Name:Debevoise & Plimpton,Score:9.5
+Name:Dallas Bbq,Score:9.444444444444445
+Name:Sal'S Deli,Score:9.5
+Name:Cafe Angus,Score:9.5
+Name:Columbo Yogurt/ Taco Bell/ Nathans/ Tim Horton/Pizza Hut,Score:9.5
+Name:Carvel Ice Cream,Score:9.416666666666666
+Name:Perkins Family Restaurant & Bakery,Score:9.4375
+Name:La Nueva Playitas,Score:9.4
+Name:Parrilla Latina Steakhouse,Score:9.428571428571429
+Name:La Taza De Oro Restaurant,Score:9.4
+Name:La Cucina,Score:9.4
+Name:J.J. Bubbles,Score:9.4
+Name:Latin American Restaurant,Score:9.4
+Name:Nada-Sushi,Score:9.4
+Name:Afghan Kebab House,Score:9.4
+Name:Original Pizza,Score:9.4
+Name:Josie Wood'S Pub,Score:9.4
+Name:Omega Coffee Shop,Score:9.4
+Name:Tribeca Rooftop,Score:9.4
+Name:Circle Pizzeria,Score:9.4
+Name:Gandhi Indian Cuisine,Score:9.4
+Name:O'Hanlon'S Pub,Score:9.4
+Name:Cafe Luna,Score:9.4
+Name:Lucky House Restaurant,Score:9.4
+Name:Section 5 Pizza Restaurant,Score:9.4
+Name:La Sorrentina Pizzeria Restaurant,Score:9.4
+Name:La Lechonera Restaurant,Score:9.4
+Name:Smiling Pizza,Score:9.4
+Name:D'Aquila Bakery,Score:9.4
+Name:Puttin On A Bagel,Score:9.4
+Name:Henry'S End,Score:9.4
+Name:Lenny & John'S Pizza,Score:9.4
+Name:Christina'S Restaurant,Score:9.4
+Name:Koliba Restaurant,Score:9.4
+Name:Jackson Hole,Score:9.391304347826088
+Name:Cipriani Dolci,Score:9.4
+Name:Circo Pastry Shop,Score:9.333333333333334
+Name:Sunberry'S,Score:9.4
+Name:Sissy Mcginty'S,Score:9.4
+Name:Black Whale,Score:9.333333333333334
+Name:Liffy Ii Bar,Score:9.4
+Name:Fit Cafeteria (Building A),Score:9.333333333333334
+Name:Columbus House,Score:9.333333333333334
+Name:La Villa Pizzeria,Score:9.333333333333334
+Name:South Shore Swimming Club,Score:9.333333333333334
+Name:Flushing Meadows Pitch And Putt,Score:9.333333333333334
+Name:Princess Manor,Score:9.333333333333334
+Name:Mrs. Maxwell'S Bakery,Score:9.333333333333334
+Name:Dunkin' Donuts, Baskin Robbins,Score:9.333333333333334
+Name:Imperial Coffee House,Score:9.333333333333334
+Name:Nyu Kosher Eatery,Score:9.333333333333334
+Name:Cj Sullivan'S,Score:9.333333333333334
+Name:Bar 515,Score:9.333333333333334
+Name:Mustang Sally'S Restaurant,Score:9.333333333333334
+Name:Queen,Score:9.333333333333334
+Name:Bar Vetro,Score:9.333333333333334
+Name:New York Pizza Suprema,Score:9.333333333333334
+Name:Ruby Foo'S Times Square,Score:9.333333333333334
+Name:Rudy'S Bar & Grill,Score:9.25
+Name:Gaby'S Pizza,Score:9.333333333333334
+Name:Lindy'S,Score:9.333333333333334
+Name:Il Posto Accanto,Score:9.25
+Name:Nostrand Island Eatery,Score:9.25
+Name:Finnegan'S Wake,Score:9.25
+Name:Bully'S Deli,Score:9.25
+Name:Krispy Pizzeria,Score:9.25
+Name:Moretti Bakery,Score:9.25
+Name:Lunch Box,Score:9.25
+Name:Starbucks Coffee (Store #7696),Score:9.25
+Name:Pizza Hut, Kentucky Fried Chicken,Score:9.25
+Name:Terra Blues,Score:9.25
+Name:Nosh Express,Score:9.25
+Name:Aqua Grill,Score:9.25
+Name:Ten Ren'S Tea Time,Score:9.25
+Name:Mehak,Score:9.25
+Name:Jojo'S Pizza,Score:9.25
+Name:Rosario'S Pizza,Score:9.25
+Name:The Movable Feast,Score:9.25
+Name:The Half King,Score:9.25
+Name:United Cyprians Of America,Score:9.25
+Name:Mudville Saloon,Score:9.25
+Name:Annam Braham Restaurant,Score:9.25
+Name:The Mansion Grand,Score:9.25
+Name:Sports Center Cafe,Score:9.25
+Name:Mona'S,Score:9.25
+Name:Victor'S Cafe,Score:9.25
+Name:Dj Reynolds Pub And Restaurant,Score:9.25
+Name:Village Natural,Score:9.25
+Name:Bateaux New York,Score:9.25
+Name:Nosh! - Courtyard By Marriott,Score:9.25
+Name:Fred'S,Score:9.25
+Name:Tortilla Flats,Score:9.25
+Name:Balthazar Bakery,Score:9.25
+Name:San Remo Pizzeria,Score:9.2
+Name:Brennan & Carr,Score:9.2
+Name:Sarabeth'S,Score:9.2
+Name:Gabriel'S Bar & Grill,Score:9.2
+Name:Flight 151,Score:9.2
+Name:Lusardi'S Restaurant,Score:9.2
+Name:Madras Mahal,Score:9.2
+Name:Majestic Theater,Score:9.2
+Name:Picholine,Score:9.2
+Name:The Malt House,Score:9.2
+Name:Towne Deli & Pizza,Score:9.2
+Name:The Upper Crust,Score:9.2
+Name:O'Keefes Bar & Grill,Score:9.2
+Name:Rizzo'S Fine Pizza,Score:9.2
+Name:Gotham Bar & Grill,Score:9.2
+Name:Niles Restaurant,Score:9.2
+Name:Nicky'S Jamaican Cuisine,Score:9.2
+Name:Bicheiros Bar,Score:9.2
+Name:Niagara/ Lovers Of Today/ Cabin Down Below,Score:9.2
+Name:New Capital Restaurant,Score:9.2
+Name:Juice For Life,Score:9.2
+Name:Madison'S,Score:9.2
+Name:Pete'S Place Pizza,Score:9.2
+Name:Members Dining Room @ The Met Museum,Score:9.2
+Name:Chinantla,Score:9.2
+Name:Odessa,Score:9.2
+Name:Venice Restaurant,Score:9.2
+Name:Pelham Bake Shop,Score:9.166666666666666
+Name:Moe'S Southwestern Grill/Charley'S,Score:9.166666666666666
+Name:Knapp St Pizza Ii,Score:9.166666666666666
+Name:T-Bar Steak & Lounge,Score:9.166666666666666
+Name:Sal And Carmine Pizza,Score:9.2
+Name:Di Luvio'S Deli,Score:9.166666666666666
+Name:The Gate,Score:9.166666666666666
+Name:Sushi Family,Score:9.166666666666666
+Name:Little Brown Jug,Score:9.166666666666666
+Name:El Sitio Restaurant,Score:9.142857142857142
+Name:Don Pepis Delicatessen,Score:9.166666666666666
+Name:Cafe Beyond,Score:9.142857142857142
+Name:Le Bon Cafe,Score:9.166666666666666
+Name:Ling Kee Beef Jerky,Score:9.166666666666666
+Name:Ho Mei Restaurant,Score:9.125
+Name:Barnes & Noble Cafe,Score:9.090909090909092
+Name:Munchy'S,Score:9.142857142857142
+Name:Pomodoro Ristorante,Score:9.083333333333334
+Name:Mcdonald'S,Score:9.012987012987013
+Name:Munchinette,Score:9
+Name:Make My Cake,Score:9
+Name:La Giara,Score:9
+Name:Papazzio Restaurant,Score:9
+Name:Lin Home Chinese Restaura,Score:9
+Name:Jones Reavis & Pague Llp,Score:9
+Name:Colony Club,Score:9
+Name:City Pie,Score:9
+Name:Celeste'S Snack Bar,Score:9
+Name:The Food Hut,Score:9
+Name:Da Rosina Restaurant,Score:9
+Name:Monty Q'S,Score:9
+Name:Bliss Bakery & Cafe,Score:9
+Name:Hyo Dong Gak,Score:9
+Name:The River Cafe,Score:9
+Name:Deluxe,Score:9
+Name:Ni-Ni'S Cafe,Score:9
+Name:L. A. Pizzeria,Score:9
+Name:Corato Pizza Ii,Score:9
+Name:Barclay'S Capital,Score:9
+Name:Raccoon Lodge,Score:9
+Name:The Ice Box-Ralph'S Famous Italian Ices,Score:9
+Name:Yale Club,Score:9
+Name:Johnny Pumps,Score:9
+Name:Barnes & Noble Booksellers,Score:9
+Name:Mimis Restaurant & Bar,Score:9
+Name:Restauracja Relax,Score:9
+Name:Cafe Sabarsky,Score:9
+Name:Plaza Bagels & Deli,Score:9
+Name:Villa Barone,Score:9
+Name:Ritz West Indian Cuisine,Score:9
+Name:Cucina Di Pesce,Score:9
+Name:Elia,Score:9
+Name:Cafe Paris,Score:9
+Name:Homestretch Bar,Score:9
+Name:Artuso Pastry Shop,Score:9
+Name:Sidewalk Bar & Restaurant,Score:9
+Name:Riviera Caterer,Score:9
+Name:Elias Corner For Fish,Score:9
+Name:Club Metropolitan,Score:9
+Name:Jalapeno Deli,Score:9
+Name:Solera Restaurant,Score:9
+Name:Vito'S Bakery,Score:9
+Name:Marina Delray,Score:9
+Name:Flannery'S Bar,Score:9
+Name:Bistro Les Amis,Score:9
+Name:Due,Score:9
+Name:Digby'S,Score:9
+Name:To Go Express,Score:9
+Name:Barre Cafe At Steps,Score:9
+Name:Caroline'S On Broadway,Score:9
+Name:Gershwin Theatre,Score:9
+Name:Neron'S Pizza,Score:9
+Name:The Triad,Score:9
+Name:Arlene'S Grocery,Score:9
+Name:Pita Pan Cafe,Score:9
+Name:East Dynasty,Score:9
+Name:Gleason'S Cafe,Score:9
+Name:Charle'S Corner Restaurant & Deli,Score:9
+Name:Sabrosura Restaurant,Score:9
+Name:E.J Luncheonette,Score:9
+Name:Vol De Nuit,Score:9
+Name:Amsterdam Restaurant & Tapas Lounge,Score:9
+Name:Good Restaurant,Score:9
+Name:Ferdinando'S Restaurant,Score:9
+Name:The Park,Score:9
+Name:The Bubble Lounge,Score:9
+Name:Studio Cafe 59,Score:9
+Name:La Barca Restaurant,Score:9
+Name:Old Castle Pub & Restaurant,Score:9
+Name:Smith & Wollensky,Score:9
+Name:Mercury Bar,Score:9
+Name:Il Buco Restaurant,Score:9
+Name:Cafe Eighty Two,Score:9
+Name:Dublin 6,Score:9
+Name:Avra Estiatorio,Score:9
+Name:The Beekman,Score:9
+Name:Puck Fair,Score:9
+Name:Beyoglu,Score:9
+Name:Pepe Giallo,Score:9
+Name:Tao Restaurant,Score:9
+Name:Black And White,Score:9
+Name:Turtle Bay Grill And Lounge,Score:9
+Name:Rab'S Country Lane,Score:9
+Name:Peking House,Score:9
+Name:Bluestockings Womens Bookstore Cafe,Score:9
+Name:Wendy'S,Score:8.92
+Name:Jane,Score:8.833333333333334
+Name:Giralda Bakery,Score:8.833333333333334
+Name:Haru,Score:8.857142857142858
+Name:Tir Na Nog,Score:8.833333333333334
+Name:Sugar Hill Restaurant, Supper Club And Disco,Score:8.857142857142858
+Name:House Of Brews,Score:8.833333333333334
+Name:Heidelberg Restaurant,Score:8.833333333333334
+Name:Bonnie'S Grill,Score:8.833333333333334
+Name:Scala Bakery,Score:8.833333333333334
+Name:La Villita Restaurant,Score:8.833333333333334
+Name:Periyali,Score:8.8
+Name:Lucky Deli,Score:8.8
+Name:Teodora,Score:8.833333333333334
+Name:Fred'S At Barney'S,Score:8.8
+Name:Sweet Life Cafe,Score:9
+Name:Automatic Slims,Score:8.8
+Name:Picanteria El Botecito,Score:8.8
+Name:Cafe Frida,Score:8.8
+Name:La Dolce Italia Bakery,Score:8.8
+Name:Delmonico'S Kitchen,Score:8.8
+Name:Bar Six,Score:8.8
+Name:Wakamba,Score:8.8
+Name:Food Merchants,Score:8.8
+Name:The Spring Lounge,Score:8.8
+Name:Big Al'S Chicago Pizza,Score:8.8
+Name:Hello Deli,Score:8.8
+Name:Quality Meats,Score:8.8
+Name:Cosmos Restaurant,Score:8.8
+Name:S.M.R Restaurant Services,Score:8.8
+Name:Pizza Jarden,Score:8.8
+Name:Antica Trattoria,Score:8.8
+Name:The Original Pizza Of Avenue L,Score:8.8
+Name:Picasso Pizzeria,Score:8.8
+Name:Tottenville Bagels,Score:8.8
+Name:Mezzogiorno,Score:8.8
+Name:Cafe Ole Usa,Score:8.8
+Name:Bagelman Of Woodside,Score:8.8
+Name:Lavelle'S Admiral'S Club,Score:8.8
+Name:Burger Heaven,Score:8.8
+Name:Blockheads,Score:8.8
+Name:Down The Hatch,Score:8.8
+Name:T & G Whitney'S,Score:8.8
+Name:Boots & Saddle Bar,Score:8.8
+Name:Manhattan Espresso,Score:8.75
+Name:Blue Ribbon,Score:8.75
+Name:J.E. Bakery,Score:8.75
+Name:Pig & Whistle On 3Rd,Score:8.75
+Name:Moustache Restaurant,Score:8.75
+Name:Italy Pizza & Restaurant,Score:8.75
+Name:Jo Jo,Score:8.75
+Name:Olympic Cafe,Score:8.75
+Name:Rogers Irish Tavern,Score:8.75
+Name:Sports Center At Chelsea Piers (Sushi Bar),Score:8.75
+Name:Winter Garden Theater,Score:8.75
+Name:Shun Lee Palace Restaurant,Score:8.75
+Name:Blue & Gold Bar,Score:8.75
+Name:Miracali Bakery,Score:8.75
+Name:El Malecon Restaurant,Score:8.75
+Name:Marriott Marquis Pastry Shop,Score:8.75
+Name:Mutual Of America,Score:8.75
+Name:Barios Pizza & Restaurant,Score:8.75
+Name:Verdi Restaurant,Score:8.75
+Name:El Loco Burrito,Score:8.75
+Name:Tropical House Baking Co.,Score:8.75
+Name:Juniors,Score:8.75
+Name:Posh,Score:8.75
+Name:Starbucks Coffee (Store #7216),Score:8.75
+Name:Champ'S Deli,Score:8.75
+Name:Black Rock Cafe,Score:8.75
+Name:New York Luncheonette,Score:8.75
+Name:Lamarca Pasta Restaurant,Score:8.75
+Name:Pete'S Candy Store,Score:8.75
+Name:Annelies Pastries,Score:8.75
+Name:V-Bar And Cafe,Score:8.75
+Name:Hill Tap Tavern,Score:8.75
+Name:Water Front Crab House,Score:8.75
+Name:Union Cafe Restaurant,Score:8.714285714285714
+Name:A-1 Pizza Shop,Score:8.714285714285714
+Name:I.O. Cafe,Score:8.75
+Name:Aliotta Bake Shop,Score:8.75
+Name:Cafe Metro,Score:8.705882352941176
+Name:Bum Bum Bar,Score:8.75
+Name:International Restaurant,Score:8.666666666666666
+Name:Midway Cinemas,Score:8.666666666666666
+Name:Russian Baths,Score:8.666666666666666
+Name:Evolution,Score:8.666666666666666
+Name:Pizza Chef,Score:8.666666666666666
+Name:Ten Degrees,Score:8.666666666666666
+Name:El Rio Grande,Score:8.666666666666666
+Name:Brooks Atkinson Theater,Score:8.666666666666666
+Name:No.1 Kitchen Chinese Restaurant,Score:8.666666666666666
+Name:Pizza Plus,Score:8.666666666666666
+Name:Blarney Rock,Score:8.666666666666666
+Name:P.J. Brady'S Tavern,Score:8.666666666666666
+Name:Walker'S Restaurant,Score:8.666666666666666
+Name:Enid'S,Score:8.666666666666666
+Name:Kum Kau Kitchen,Score:8.666666666666666
+Name:Lunt Fontanne Theater,Score:8.666666666666666
+Name:El Caribe,Score:8.666666666666666
+Name:Cafe 101,Score:8.666666666666666
+Name:Connolly'S,Score:8.666666666666666
+Name:Q'S Tavern,Score:8.6
+Name:Thai Son,Score:8.6
+Name:Mc Guinness'S,Score:8.6
+Name:Mondial Bakery,Score:8.6
+Name:Hong Kong Restaurant,Score:8.6
+Name:Circa Tabac,Score:8.6
+Name:Pepe Joes Pizzeria,Score:8.6
+Name:Famous Pizza,Score:8.6
+Name:Island,Score:8.6
+Name:Bello Restaurant,Score:8.6
+Name:Delias Lounge Cafe,Score:8.6
+Name:City Hall Restaurant,Score:8.6
+Name:Mini Star Restaurant,Score:8.6
+Name:Pipers Kilt,Score:8.6
+Name:Walnut Bus Stop,Score:8.6
+Name:P.S. Gourmet (Cafe On 8),Score:8.6
+Name:Ben'S Deli,Score:8.6
+Name:The Green Table(Chelsea Market),Score:8.6
+Name:Elio'S,Score:8.6
+Name:Pizza Plate,Score:8.6
+Name:White Horse Tavern,Score:8.583333333333334
+Name:Hong Cheong,Score:8.6
+Name:Simone Bar Cafe,Score:8.6
+Name:Georges Restaurant,Score:8.571428571428571
+Name:Fluffy'S Cafe & Bakery,Score:8.5
+Name:Shabu Tatsu,Score:8.5
+Name:Cafe Bonjour,Score:8.571428571428571
+Name:El Ranchito De Daisy,Score:8.571428571428571
+Name:Red Eye Grill,Score:8.5
+Name:Iroha Japanese Restaurant,Score:8.5
+Name:Fish,Score:8.5
+Name:Nonis Coffee Shop,Score:8.5
+Name:J And L Deli,Score:8.5
+Name:Bagels N Buns,Score:8.5
+Name:Olympia,Score:8.5
+Name:Cafe Cello Deli,Score:8.5
+Name:Quad Cinema,Score:8.5
+Name:Parnell'S Pub,Score:8.5
+Name:E & L Bakery & Coffee Shop,Score:8.5
+Name:Jays Restaurant,Score:8.5
+Name:Aunt Bella'S Rest Of Little Neck,Score:8.5
+Name:Culinart Cafe,Score:8.5
+Name:Meskerem,Score:8.5
+Name:Hampton Chutney Company,Score:8.5
+Name:Daddy'S,Score:8.5
+Name:Belvedere Cafe,Score:8.5
+Name:Adrian & Rocky'S Caterers,Score:8.5
+Name:Morrell Wine Bar & Cafe,Score:8.5
+Name:Pigalle,Score:8.5
+Name:Szechuan Kitchen,Score:8.5
+Name:Scaletta Ristorante,Score:8.5
+Name:La Casa Del Pollo Restaurant,Score:8.5
+Name:City Island Deli,Score:8.5
+Name:The Barbecue Pit,Score:8.5
+Name:Kiddie Cakes,Score:8.5
+Name:The Penn Club,Score:8.5
+Name:Room Service Kitchen,Score:8.5
+Name:The Grocery,Score:8.5
+Name:Marathon Food Shop,Score:8.5
+Name:El Pulgarcito De America,Score:8.5
+Name:Barfly,Score:8.5
+Name:Topaze Restaurant & Jerk Chicken,Score:8.4
+Name:Metrostar Cafe,Score:8.5
+Name:La Strada Restaurant,Score:8.4
+Name:Cafe Borgia Ii,Score:8.4
+Name:Rockefeller U/Abby Bldg,Score:8.4
+Name:El Castillo De Jagua Rest,Score:8.4
+Name:My Father'S Place,Score:8.4
+Name:Lunella Restaurant,Score:8.4
+Name:Dani Pizza And Restaurant,Score:8.4
+Name:The New Amity Restaurant,Score:8.4
+Name:Hot Bagels & Cafe,Score:8.4
+Name:Jim Brady'S Restaurant,Score:8.4
+Name:Fireside,Score:8.4
+Name:Paris Cafe,Score:8.4
+Name:Arirang Hibachi Steakhouse,Score:8.4
+Name:Harbor Pizza,Score:8.4
+Name:Panda Restuarant,Score:8.4
+Name:Ny Hot Jumbo Bagels,Score:8.4
+Name:Hale & Hearty Soups,Score:8.394736842105264
+Name:Pearl,Score:8.4
+Name:Baskin Robbins,Score:8.357142857142858
+Name:Peter Dillon'S Bar,Score:8.333333333333334
+Name:Tad'S Steaks,Score:8.333333333333334
+Name:Cafe Express,Score:8.333333333333334
+Name:Tiramisu Restaurant,Score:8.333333333333334
+Name:El Dorado Sports Lounge,Score:8.333333333333334
+Name:Shemtov Manor,Score:8.333333333333334
+Name:Hurley'S Saloon,Score:8.333333333333334
+Name:Richmond County Country Club - Pool Snack Bar,Score:8.333333333333334
+Name:Terrace Cafe,Score:8.333333333333334
+Name:Bar Veloce,Score:8.333333333333334
+Name:Nbc-Ge,Score:8.333333333333334
+Name:Cinnabon World Famous Cinnamon Rolls,Score:8.333333333333334
+Name:Pret A Manger,Score:8.333333333333334
+Name:Mariella Pizza,Score:8.3
+Name:M & M Bar & Grill,Score:8.333333333333334
+Name:Pizza D Amore,Score:8.25
+Name:Sombrero Mexican Restaurant,Score:8.25
+Name:Anotheroom,Score:8.25
+Name:Sunset Pizzeria,Score:8.25
+Name:Food For Thought Library Cafe,Score:8.25
+Name:Mcloughlins Bar,Score:8.25
+Name:Your Bakery,Score:8.25
+Name:Kentucky Fried Chicken/ Island Cuisine,Score:8.25
+Name:Egger'S Ice Cream Parlor,Score:8.25
+Name:Brooklyn Botanic Catering Hall,Score:8.25
+Name:Ideal Donut,Score:8.25
+Name:Corner Bistro,Score:8.25
+Name:Anglers Club Of New York,Score:8.25
+Name:Akiyama Japanese Restaurant,Score:8.25
+Name:Kelly'S Pub,Score:8.25
+Name:Taste The Tropics Ice Cream,Score:8.25
+Name:Estihaya Asian Restaurant,Score:8.25
+Name:The Original Sal'S Pizzeria,Score:8.25
+Name:Goody'S Spanish Food,Score:8.25
+Name:Not Just Pizza,Score:8.25
+Name:Cravath Cafe,Score:8.25
+Name:Patsy'S Pizzeria,Score:8.214285714285714
+Name:Broadway Lounge,Score:8.25
+Name:Vico Ristorante,Score:8.2
+Name:The Neptune Diner,Score:8.25
+Name:Bond St,Score:8.2
+Name:Casa Java,Score:8.2
+Name:Flame Restaurant Coffee House,Score:8.2
+Name:New Rainbow Restaurant,Score:8.2
+Name:Caliente Cab Co,Score:8.2
+Name:Port O' Calls,Score:8.25
+Name:Big Als Chicago Pizza,Score:8.2
+Name:The Assembly Bar,Score:8.2
+Name:Al-Dente,Score:8.2
+Name:Morris Park Bake Shop,Score:8.2
+Name:Olive'S,Score:8.2
+Name:Chadwick'S,Score:8.2
+Name:London Lennies,Score:8.2
+Name:Little Pie Company,Score:8.2
+Name:Starting Gate,Score:8.2
+Name:Taj Mahal Indian Restaurant,Score:8.2
+Name:Zaro'S Bread Basket,Score:8.185185185185185
+Name:Bagel Corner,Score:8.166666666666666
+Name:Ginger,Score:8.2
+Name:Am,Score:8.166666666666666
+Name:Dizzy'S Restaurant,Score:8.166666666666666
+Name:Highway Bagels,Score:8.166666666666666
+Name:Blue Diner,Score:8.166666666666666
+Name:Nations Cafe,Score:8.166666666666666
+Name:Costco Wholesale,Score:8.125
+Name:Dunkin' Donuts,Score:8.18
+Name:El Olivo,Score:8.142857142857142
+Name:Bally Total Fitness,Score:8.11111111111111
+Name:Haagen-Dazs,Score:8.058823529411764
+Name:Minitalia Pizzeria,Score:8
+Name:Hero Champ,Score:8
+Name:Lovell'S Guiding Light,Score:8
+Name:Bangkok Thai House,Score:8
+Name:The Slaughtered Lamb,Score:8
+Name:Killarney Rose,Score:8
+Name:Hairos Night Club,Score:8
+Name:Pasiones Sports-Bar,Score:8
+Name:Caffe' Romeo,Score:8
+Name:Rao'S Bar & Grill,Score:8
+Name:42Nd Street Pizza Diner,Score:8
+Name:Aquamarina,Score:8
+Name:Mill Korean Restaurant,Score:8
+Name:Off The Wagon,Score:8
+Name:Excelsior Catering,Score:8
+Name:Beth Torah Kosher Caterers,Score:8
+Name:Hidden Cottage,Score:8
+Name:Mr. Phil'S Pizza,Score:8
+Name:El Nuevo Conquistador,Score:8
+Name:Pick-A-Bagel,Score:8
+Name:Caruso Pizza #2,Score:8
+Name:Patrick Conways,Score:8
+Name:Mariott Marquis/Crossroads Bar,Score:8
+Name:Aqueduct North,Score:8
+Name:Marquis Theater,Score:8
+Name:Abitino'S Pizza,Score:8
+Name:Venice Pizza,Score:8
+Name:Savore,Score:8
+Name:Fay Da Bakery,Score:8
+Name:Tea And Sympathy,Score:8
+Name:Olympic Flame Diner,Score:8
+Name:New Kam Sheng Restaurant,Score:8
+Name:Shashemene Int'L Restaura,Score:8
+Name:Timmy'S Deli,Score:8
+Name:Forest Hills Spa,Score:8
+Name:Paddy Maguire'S Ale House,Score:8
+Name:Tommy'S Pizza,Score:8
+Name:Cody'S Ale House Grill,Score:8
+Name:Island Chateau,Score:8
+Name:Park'S Snack,Score:8
+Name:Antun'S,Score:8
+Name:Chan'S Kitchen,Score:8
+Name:Cafe Bella Vita,Score:8
+Name:Tip-Top Bar & Grill,Score:8
+Name:Patmar Bake Shop,Score:8
+Name:Bagels Deli,Score:8
+Name:Serendipity 3,Score:8
+Name:Starbucks Coffee #7416,Score:8
+Name:Campus Center Cafeteria,Score:8
+Name:Portofino Cafe,Score:7.857142857142857
+Name:Shade,Score:7.8
+Name:Connecticut Muffin,Score:7.857142857142857
+Name:La Bella Pizza,Score:7.8
+Name:The Bagel House,Score:8
+Name:Pollos A La Brasa,Score:7.833333333333333
+Name:Joe Allen Restaurant,Score:7.8
+Name:Villa Berulia,Score:7.8
+Name:Capri Pizza Restaurant,Score:7.8
+Name:T.G.I. Fridays,Score:7.777777777777778
+Name:Chap A Nosh/Yun Kee,Score:7.75
+Name:Cafe Luxembourg,Score:7.8
+Name:Nick'S Pizza,Score:7.75
+Name:Mario'S Pizza,Score:7.75
+Name:Gurra Cafe,Score:7.8
+Name:Palm Too,Score:7.75
+Name:Angelika Film Center,Score:7.75
+Name:Blue Hill Restaurant,Score:7.75
+Name:Psc Cafeteria,Score:7.75
+Name:Spirit Of New Jersey,Score:7.75
+Name:Astro Restaurant,Score:7.75
+Name:Blockheads Burritos,Score:7.75
+Name:Toledo,Score:7.75
+Name:L'Express,Score:7.75
+Name:Simpson Thacher And Bartlet Cafe,Score:7.75
+Name:Narrows Coffee Shop,Score:7.75
+Name:Crystal Room,Score:7.75
+Name:Cafe Capri,Score:7.75
+Name:2A,Score:7.75
+Name:Cappuccino Cafe,Score:7.8
+Name:La Sorrentina Ristorante,Score:7.75
+Name:Starbucks Coffee (Store #7555),Score:7.75
+Name:Lupa,Score:7.75
+Name:Trattoria Della Arte,Score:7.75
+Name:Paul Weiss Rifkin Wharton,Score:7.75
+Name:The Full Shilling,Score:7.75
+Name:Ready Penny Inn,Score:7.75
+Name:Gussy'S Bar,Score:7.75
+Name:Starbucks Coffee (Store 7261),Score:7.75
+Name:West Bank Cafe,Score:7.75
+Name:Albany Manor,Score:7.666666666666667
+Name:Internationalhouse,Score:7.666666666666667
+Name:Ponticello Baybridge Pizzeria & Restaurant,Score:7.666666666666667
+Name:Orso,Score:7.666666666666667
+Name:Chick-N-Ribs,Score:7.666666666666667
+Name:Soba Nippon Japanese Restaurant,Score:7.666666666666667
+Name:The Famous Jimbo'S Hamburger Palace,Score:7.666666666666667
+Name:Pizza Hut,Score:7.621621621621622
+Name:Turkish Kitchen,Score:7.666666666666667
+Name:Lucys,Score:7.6
+Name:Tequilitas Mexican Restaurant,Score:7.6
+Name:Home Deli & Catering,Score:7.6
+Name:The Original California Taqueria,Score:7.6
+Name:Glen Roy Bar And Grill,Score:7.6
+Name:El Rinconcito Restaurant,Score:7.6
+Name:Burrito Loco,Score:7.6
+Name:Morton'S Steakhouse,Score:7.6
+Name:Yen Yen Restaurant,Score:7.6
+Name:The Cornell Center Of New York,Score:7.6
+Name:Estiatorio Milos,Score:7.6
+Name:Lefkos Pygos Cafe,Score:7.6
+Name:Strokos Pizza Deli,Score:7.6
+Name:Fish Bar,Score:7.6
+Name:Indo Chine,Score:7.6
+Name:El Greco Diner,Score:7.6
+Name:La Bella Rosa Bakery,Score:7.571428571428571
+Name:Bank Of New York Cafe,Score:7.5
+Name:Risotteria,Score:7.6
+Name:O G Restaurant,Score:7.5
+Name:Flute,Score:7.545454545454546
+Name:Parrilla Restaurant,Score:7.6
+Name:Imperial Theatre,Score:7.5
+Name:Pencil Factory,Score:7.5
+Name:Griffis Faculty Club,Score:7.5
+Name:Manhem Club,Score:7.5
+Name:Ing Forman Selz,Score:7.5
+Name:Shenanigans Pub,Score:7.5
+Name:The Campbell Apartment - In Grand Central,Score:7.5
+Name:Kurumazushi Restaurant,Score:7.5
+Name:Faces & Names,Score:7.5
+Name:Cool Zone,Score:7.5
+Name:Stage Restaurant,Score:7.5
+Name:Circo Restaurant,Score:7.5
+Name:S S Calabro Pizzeria,Score:7.5
+Name:Pita City Falafel,Score:7.5
+Name:Glaser'S Bakery,Score:7.5
+Name:Pc'S Bar And Grill,Score:7.5
+Name:Guayoyo,Score:7.5
+Name:Sacco Pizza,Score:7.5
+Name:Black Fat Pussy Cat,Score:7.5
+Name:Jean Georges,Score:7.4
+Name:Purity Diner,Score:7.4
+Name:Rosie O'Grady Restaurant,Score:7.5
+Name:El Anzuelo Fino Restaurant,Score:7.4
+Name:Donohue'S Steak House,Score:7.4
+Name:Red Hook Coffee Shop,Score:7.4
+Name:Big Jons Pizza & Restaurant,Score:7.4
+Name:Steve Chu'S Deli & Grocery,Score:7.5
+Name:Pizza Nosh,Score:7.4
+Name:Metropolitan,Score:7.4
+Name:Abigael'S On Broadway,Score:7.4
+Name:Starbucks Coffee (Store #7587),Score:7.4
+Name:Tavern Lounge,Score:7.4
+Name:Blondies,Score:7.4
+Name:Westside Tavern,Score:7.4
+Name:Captain'S Pizzeria And Restaurant,Score:7.4
+Name:Francesco'S Pizzeria Restaurant,Score:7.4
+Name:Friend Of A Farmer,Score:7.4
+Name:Cafe 101 16Th Floor Cafeteria,Score:7.4
+Name:Kitty Kiernans,Score:7.333333333333333
+Name:La Carreta Restaurant,Score:7.4
+Name:Tap Room,Score:7.333333333333333
+Name:New York University- Hall Cafe/ Burger Studio,Score:7.333333333333333
+Name:Cavo,Score:7.333333333333333
+Name:Racquet & Tennis Club,Score:7.333333333333333
+Name:Sideshows By The Seashore,Score:7.333333333333333
+Name:Eat-A-Bagel (Andrew J. Barbery Ferry Boat),Score:7.333333333333333
+Name:Flik International,Score:7.333333333333333
+Name:Great Kills Yacht Club,Score:7.333333333333333
+Name:The Brazen Head,Score:7.333333333333333
+Name:Madison Bistro,Score:7.333333333333333
+Name:Trattoria L'Incontro,Score:7.333333333333333
+Name:Sal'S Pizzeria,Score:7.333333333333333
+Name:The Century Association,Score:7.333333333333333
+Name:Grand Plaza,Score:7.333333333333333
+Name:Andy'S Cafeteria,Score:7.333333333333333
+Name:Arriba Arriba,Score:7.333333333333333
+Name:Blue Water Grill,Score:7.333333333333333
+Name:Tim Hortons,Score:7.25
+Name:Family Pizza,Score:7.333333333333333
+Name:Ramona'S Bakery,Score:7.25
+Name:Peppino'S Pizzeria,Score:7.25
+Name:Connie O'S,Score:7.333333333333333
+Name:Fordham University - Millenium Grill,Score:7.25
+Name:Sodexo,Score:7.25
+Name:Blanches @ Dkny,Score:7.25
+Name:Ua Court Street #12,Score:7.25
+Name:The Ginger Man,Score:7.25
+Name:Hillel Bagels,Score:7.25
+Name:Luigi'S Pizza,Score:7.25
+Name:Metropolitan Museum Employee Cafeteria,Score:7.25
+Name:New Sunny Garden Restaurant,Score:7.25
+Name:Azuri Cafe,Score:7.25
+Name:Cbs Employee Cafeteria,Score:7.25
+Name:Bus Stop Cafe,Score:7.25
+Name:Queen Bee'S Tavern,Score:7.25
+Name:Ben'S Kosher Deli & Restaurant,Score:7.25
+Name:Cafeteria- Lirr Employees,Score:7.25
+Name:The Mercury Lounge,Score:7.25
+Name:Roadhouse Restaurant,Score:7.25
+Name:Cronin & Phelan Pub & Restaurant,Score:7.25
+Name:Sette Mezzo,Score:7.25
+Name:The Corner House,Score:7.25
+Name:Baker'S Dozen Bagel,Score:7.2
+Name:Veterans Of Foreign Wars Post #107 Canteen,Score:7.25
+Name:Applebee'S Neighborhood Grill & Bar,Score:7.24
+Name:Dempsey'S Pub,Score:7.2
+Name:Ben'S Pizza,Score:7.2
+Name:Blockhead'S Burritos,Score:7.2
+Name:Deux Amis,Score:7.2
+Name:Junior'S,Score:7
+Name:P.J.' S,Score:7.2
+Name:Jean Danet French Pastry,Score:7.2
+Name:Triomphe,Score:7.2
+Name:Irish Brigade,Score:7
+Name:Spiros Restautrant,Score:7
+Name:Classic Coffee Shop,Score:7
+Name:Sushiya Japanese Restaurant,Score:7
+Name:John'S Restaurant,Score:7
+Name:Golden Theatre,Score:7
+Name:Village Den,Score:7.2
+Name:New York University - Palladium Food Court,Score:7
+Name:La Perla Mexicana,Score:7
+Name:Stand # 326,Score:7
+Name:The Room,Score:7
+Name:Shem Tov,Score:7
+Name:Chic-Fil-A, Quiznos Subs, Jw'S, Tossed,Score:7
+Name:Richmond County Country Club(10Th Hole),Score:7
+Name:R.J.'S Place,Score:7
+Name:Nederlander Theater Ba,Score:7
+Name:Crown Fried Chicken,Score:7
+Name:Ray'S Pizza Restuarant,Score:7
+Name:Kent Theatre,Score:7
+Name:Ua Kaufman Astoria #14,Score:7
+Name:Roy Rogers,Score:7
+Name:The Blue Zoo Lounge,Score:7
+Name:Ace Bar,Score:7
+Name:B. Smith Restaurant,Score:7
+Name:Roys Rest & Sports Bar,Score:7
+Name:New No 1 Chinese Restaurant,Score:7
+Name:The Irish Pub,Score:7
+Name:Korner Pizzeria,Score:7
+Name:Lazard Freres,Score:7
+Name:Regal Entertainment Group,Score:7
+Name:Vittoria Bakery,Score:6.833333333333333
+Name:White Castle,Score:6.828571428571428
+Name:Pax Wholesome Foods,Score:6.875
+Name:Fiorellos,Score:6.8
+Name:Thomasina'S,Score:6.8
+Name:Del Frisco'S,Score:6.8
+Name:Singas Famous Pizza,Score:6.8
+Name:Zafi'S Luncheonette,Score:6.8
+Name:7 Stars,Score:6.8
+Name:Carvel,Score:6.8
+Name:Michael'S Pastry Shop,Score:6.8
+Name:Nelly'S Cakes & Party Supplies,Score:6.75
+Name:Renee'S Kitchenette,Score:6.75
+Name:Mug Shots,Score:6.75
+Name:Ambassador Theatre,Score:6.75
+Name:Pieces,Score:6.75
+Name:Alibaba,Score:6.75
+Name:Mexico Lindo Restaurant,Score:6.75
+Name:Bobby Van'S,Score:6.8
+Name:W'S Bar & Restaurant,Score:6.75
+Name:Mill Basin Kosher Deli,Score:6.75
+Name:B66 Club,Score:6.75
+Name:Villa Fiorita,Score:6.75
+Name:Starbucks Coffee #7358,Score:6.75
+Name:Dunkin' Donuts/Baskin Robins,Score:6.75
+Name:Jerry'S 637 Diner,Score:6.75
+Name:Charlies Sports Bar,Score:6.75
+Name:Good Shepherd Services,Score:6.75
+Name:Broadhurst Theater,Score:6.75
+Name:Bank Of New York,Score:6.666666666666667
+Name:Starbucks Coffee,Score:6.747641509433962
+Name:Salam Cafe & Rest,Score:6.666666666666667
+Name:Fordham Fried Chicken & Sea Food,Score:6.666666666666667
+Name:El Charro Espanol,Score:6.666666666666667
+Name:Tres Coronas Bar,Score:6.6
+Name:Fordham Seafood And Chicken,Score:6.6
+Name:Vatan,Score:6.6
+Name:Mike'S Donuts,Score:6.75
+Name:Angelica'S Bakery,Score:6.6
+Name:Karavas Place,Score:6.6
+Name:Becco,Score:6.6
+Name:(Lewis Drug Store) Locanda Vini E Olii,Score:6.6
+Name:Galicia Bar,Score:6.6
+Name:Regina Pizza,Score:6.6
+Name:Manhattan Diner,Score:6.6
+Name:Phoebe'S,Score:6.555555555555555
+Name:The End Zone Bar,Score:6.5
+Name:La Linea Lounge,Score:6.5
+Name:Juicy Lucy,Score:6.5
+Name:Snack Time Grill,Score:6.5
+Name:Anesis Cafe,Score:6.5
+Name:O'Brien'S Pub,Score:6.5
+Name:Park Bar,Score:6.5
+Name:The Edge Bar,Score:6.5
+Name:Benny'S Famous Pizza,Score:6.5
+Name:Cup & Saucer,Score:6.4
+Name:Famous Fish Market,Score:6.4
+Name:Firozas Roti Bar,Score:6.5
+Name:Cea Lo Cafe,Score:6.4
+Name:Park Billiards,Score:6.428571428571429
+Name:Rose Pizza,Score:6.5
+Name:Tee Dee'S Tavern,Score:6.4
+Name:Time Cafeteria,Score:6.4
+Name:Bennys Burritos,Score:6.333333333333333
+Name:Gennaro'S Catering Hall,Score:6.333333333333333
+Name:Mccabe'S Bar Car,Score:6.333333333333333
+Name:Concession # 110,Score:6.333333333333333
+Name:Gold'S Gym,Score:6.333333333333333
+Name:Giovanni 25,Score:6.333333333333333
+Name:Pergola Des Artistes,Score:6.333333333333333
+Name:Pizza Hut (Store #825),Score:6.333333333333333
+Name:C & C Catering,Score:6.333333333333333
+Name:Health King,Score:6.25
+Name:Mcgraw Hill Executive Dining,Score:6.333333333333333
+Name:Hallmark Deli,Score:6.333333333333333
+Name:Cleary Gottlieb,Score:6.25
+Name:Richard Rogers Theatre,Score:6.25
+Name:Caravan Chicken,Score:6.25
+Name:Mughlai Restaurant,Score:6.25
+Name:Pumps Exotic Bar,Score:6.25
+Name:Sugiyama Restaurant,Score:6.25
+Name:Union Club Of City Of New York,Score:6.25
+Name:Casa,Score:6.25
+Name:Dorrian'S Red Hand Restaurant,Score:6.25
+Name:W Times Square,Score:6.25
+Name:Holtermann'S Bakery,Score:6.25
+Name:Taco Bell,Score:6.2
+Name:Metro Diner,Score:6.2
+Name:Olive Tree Cafe & Comedy Cellar,Score:6.2
+Name:Bernard B Jacobs Theater,Score:6.2
+Name:Gian & Pier Bakery,Score:6
+Name:Babbo Ristorante E Enoteca,Score:6.2
+Name:Ruth'S Chris Steak House,Score:6
+Name:Westside Theatre,Score:6
+Name:Convivium Osteria,Score:6.2
+Name:Park Slope Ale House,Score:6
+Name:Wild Asia,Score:6
+Name:Canard Inc,Score:6
+Name:Starbucks Coffee #7682,Score:6
+Name:Blue Fin,Score:6
+Name:Varenichnaya - Pelmini Varenichky,Score:6
+Name:Belasco Theatre,Score:6
+Name:Hillside Swimming Club,Score:6
+Name:Cort Theatre,Score:6
+Name:New Amsterdam Theater,Score:6
+Name:Dunkin' Donuts/Subway,Score:6
+Name:Lulu'S Bakery,Score:5.8
+Name:Kentucky Fried Chicken, Tim Hortons,Score:6
+Name:Sabor A Mexico,Score:6
+Name:Rainbow Falafel,Score:6
+Name:Ambassador Dining Room  At Saratoga Family Inn,Score:6
+Name:Taj Cafe,Score:5.75
+Name:Blue & Gray Inn,Score:5.75
+Name:Dancing Crane Cafe (Bx Zoo),Score:5.8
+Name:Bull Head Tavern,Score:5.8
+Name:Manon Cafe / Leonidas,Score:5.75
+Name:Leonidas,Score:5.75
+Name:American Express,Score:5.75
+Name:Beaver Pond,Score:5.75
+Name:John Hughes Knights Of Columbus Club,Score:5.75
+Name:Starbucks Coffee (Store #7577),Score:5.75
+Name:Hsbc Bank,Score:5.75
+Name:Lexicon,Score:5.666666666666667
+Name:Il Cantinori Restauraunt,Score:5.75
+Name:Brooklyn Diner,Score:5.666666666666667
+Name:Rolf'S German Restaurant,Score:5.75
+Name:New Wave Cafe & Restaurant,Score:5.666666666666667
+Name:Dunkin Donuts,Score:5.5
+Name:Bonelle Pastry Shop,Score:5.5
+Name:Nordic Delicacies,Score:5.666666666666667
+Name:Fordham University - Student Deli,Score:5.5
+Name:Ethel Barrymore Theater,Score:5.5
+Name:Amy'S Bread,Score:5.5
+Name:Ernst & Young Cafe,Score:5.5
+Name:Walter'S Bar,Score:5.5
+Name:Grotto Azzura Pizzeria,Score:5.5
+Name:Rick'S Cafe,Score:5.5
+Name:Ljubo'S Pizzeria,Score:5.5
+Name:Jamaican Flavours,Score:5.5
+Name:Sale & Pepe,Score:5.5
+Name:No Partners,Score:5.333333333333333
+Name:The Joyce Theater,Score:5.5
+Name:Subway / Twin Donut,Score:5.333333333333333
+Name:Gaudio'S Pizzeria,Score:5.4
+Name:Tom'S Delicious Pizza,Score:5.333333333333333
+Name:New York University - Courtyard Cafe,Score:5.25
+Name:Ritmo'S 60,Score:5.333333333333333
+Name:African Market (Baboon Cafe),Score:5.25
+Name:The Liberty Cafe (S.I. Newhouse),Score:5.25
+Name:Khyber Restaurant,Score:5
+Name:Les Halles,Score:5.2
+Name:Ariana Kebab House,Score:5
+Name:The Webster Apartments,Score:5
+Name:Caruso Pizzeria & Restaurant,Score:5
+Name:Bagel Shoppe,Score:5
+Name:Teresa'S Gourmet,Score:5
+Name:Town Hall Theatre,Score:5
+Name:Concession Stand  330,Score:5
+Name:Lenfest Cafe - Jerome Green Hall,Score:5
+Name:Atlantic Grill,Score:5
+Name:Brendan'S,Score:4.75
+Name:Royal Pizza,Score:4.8
+Name:The Lark'S Nest,Score:4.75
+Name:Christie'S,Score:4.75
+Name:Diwan-E- Khaas,Score:4.75
+Name:Totonno'S Pizzeria,Score:4.666666666666667
+Name:Pit Stop Bar,Score:4.666666666666667
+Name:Snack Bar (Located Between A-B Between Fancy Food And Masters),Score:4.666666666666667
+Name:Nathan'S Famous,Score:5
+Name:Lyceum Theatre,Score:4.666666666666667
+Name:Juicy Lucy'S,Score:4.5
+Name:Blockhead'S Mexican Diner,Score:4.6
+Name:Brooklyn Ice Cream Factory,Score:4.5
+Name:Amerada Hess Express Cafe,Score:4.5
+Name:Gioiosa Caffe Expresso,Score:4.5
+Name:Lexler Deli,Score:4.6
+Name:Morgan Stanley Cafeteria,Score:4.25
+Name:Chase Edr,Score:4.5
+Name:Sonny'S Heros,Score:4.333333333333333
+Name:Ibm Executive Dining Room,Score:4.5
+Name:Ocean Grill,Score:4.333333333333333
+Name:Churrascaria Plataforma,Score:4.25
+Name:Molly'S,Score:4.166666666666667
+Name:Juice Generation,Score:4.125
+Name:Starbucks Coffee (Bank Of America Building),Score:4
+Name:Longacre Theatre,Score:4
+Name:Ambassador Diner,Score:4
+Name:Starbucks Coffee # 7540,Score:4
+Name:Soy,Score:4
+Name:Reuters Executive Dining Room,Score:3.75
+Name:Creative Cakes,Score:4
+Name:Bleecker Street Bar,Score:4
+Name:African Terrace,Score:3.5
+Name:Samaria Pizza,Score:4.25
+Name:Bari Sandwich Shop,Score:3.6666666666666665
+Name:Nba Employer Cafeteria,Score:3.5
+Name:Adria Hotel,Score:3.75
+Name:1 East 66Th Street Kitchen,Score:3.25
+Name:N.Y. Life Executive Dining Room .,Score:3.5
+Name:Cambridge Caterers,Score:3.2
+Name:Starbucks Coffee #7344,Score:3.5
+Name:Night Light Cafe,Score:3
+Name:C & C Catering Service,Score:3.5
+Name:Sheas Emerald,Score:3
+Name:Stand # 210,Score:3
+Name:Credit Agricole-Cbi Executive Room,Score:3
+Name:The Little Sweet Shoppe,Score:2.75
+Name:Seven Stars Bakery,Score:2.6666666666666665
+Name:Schoenfield,Score:3
+Name:Concession # 120/ The Bullpen,Score:3
+Name:Julliard & S.A.B. Cafeteria,Score:2.6666666666666665
+Name:Cafe Madison,Score:2
+Name:Lattanzi,Score:2.5
+Name:Gold Bar B,Score:1
+Name:Citibank Executive Conference Center,Score:1.6666666666666667
+Name:Kenyon & Kenyon Cafeteria,Score:1.75
+Name:Circle In The Square Theatre,Score:0.6666666666666666
+Name:Diwan-E-Khaas,Score:2.5
+Name:Forest Park Golf Course,Score:1.75

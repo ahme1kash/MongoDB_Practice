@@ -1,3 +1,4 @@
+const fs = require("fs")
 const Mongo_Queries = {
     find_doc:async(db)=>{
     const collection = db.collection("restaurants")
@@ -494,6 +495,150 @@ find_asked40:async(db)=>{
     const all_docs = await collection.find(query,{projection}).toArray()
     return all_docs
 },
+
+// 51. Write a MongoDB query to find the average score for each restaurant.
+
+find_asked41:async(db)=>{
+    const collection = db.collection("restaurants")
+    let stage1 = {$unwind:"$grades"}
+    let stage2 = {$group:{_id:"$name",avg_Score:{$avg:"$grades.score"}}}
+    let stage3 = {$sort:{avg_Score:-1}}
+    const all_docs = await collection.aggregate([stage1,stage2,stage3]).toArray()
+     all_docs.forEach(data=>{
+         let info = `Name:${data._id},Score:${data.avg_Score}\n`
+         fs.appendFile('output.txt', `${info}`, function (err) {
+             if (err) throw err;
+            //  console.log('Saved!');
+             });
+     } )
+    return all_docs
+},
+// 52. Write a MongoDB query to find the highest score for each restaurant with total frequency of score.
+find_asked42:async(db)=>{
+    const collection = db.collection("restaurants")
+    let stage1 = {$unwind:"$grades"}
+    let stage2 = {$group:{_id:"$name",highest_score:{$max:"$grades.score"},count:{$sum:1}}}
+    // let stage3 = {$sum:1}
+    const all_docs = await collection.aggregate([stage1,stage2]).toArray();
+    return all_docs
+},
+
+// 53. Write a MongoDB query to find the avg and highest score for each restaurant.
+find_asked42:async(db)=>{
+    const collection = db.collection("restaurants")
+    let stage1 = {$unwind:"$grades"}
+    let stage2 = {$group:{_id:"$name",highest_score:{$max:"$grades.score"},avg_score:{$avg:"$grades.score"}}}
+    let stage3 = {$limit:20}
+    const all_docs = await collection.aggregate([stage1,stage2,stage3]).toArray();
+    return all_docs
+},
+// 54. Write a MongoDB query to find the lowest score for each restaurant.
+
+
+find_asked43:async(db)=>{
+    const collection = db.collection("restaurants")
+    let stage1 = {$unwind:"$grades"}
+    let stage2 = {$group:{_id:"$name",lowest_score:{$min:"$grades.score"},highest_score:{$max:"$grades.score"}}}
+    let stage3 = {$match:{$expr:{$eq:['$lowest_score','$highest_score']}}}
+    const all_docs = await collection.aggregate([stage1,stage2,stage3]).toArray();
+    return all_docs
+},
+
+// 54. Write a MongoDB query to find the count of restaurants in each borough.
+find_asked44:async(db)=>{
+const collection = db.collection("restaurants")
+let stage1 = {$group:{_id:"$borough",Count:{$sum:1}}};
+const all_docs = await collection.aggregate([stage1]).toArray();
+return all_docs
+},
+// 55. Write a MongoDB query to find the count of restaurants for each cuisine.
+find_asked45:async(db)=>{
+    const collection = db.collection("restaurants")
+    let stage1 = {$group:{_id:"$cuisine","Cuisine Served By Restaurants":{$sum:1}}};
+    const all_docs = await collection.aggregate([stage1]).toArray();
+    return all_docs
+    },
+// 56. Write a MongoDB query to find the count of restaurants for each cuisine and borough.
+find_asked46:async(db)=>{
+    const collection = db.collection("restaurants")
+    let stage1 = {$group:{_id:{cuisine:"$cuisine",borough:"$borough"},"Restaurants Count":{$sum:1}}};
+    const all_docs = await collection.aggregate([stage1]).toArray();
+    return all_docs
+    },
+
+// 57. Write a MongoDB query to find the count of restaurants that received a grade of 'A' for each cuisine.
+find_asked47:async(db)=>{
+    const collection = db.collection("restaurants")
+    let stage1 = {$unwind:"$grades"}
+    let stage2 = {$match:{"grades.grade":"A"}}
+    let stage3 = {$group:{_id:"$cuisine",count:{$sum:1}}}
+    const all_docs = await collection.aggregate([stage1,stage2,stage3]).toArray();
+    return all_docs  
+}
+,
+// 58. Write a MongoDB query to find the count of restaurants that received a grade of 'A' for each borough.
+find_asked48:async(db)=>{
+    const collection = db.collection("restaurants")
+    let stage1 = {$unwind:"$grades"}
+    let stage2 = {$match:{"grades.grade":"A"}}
+    let stage3 = {$group:{_id:"$borough",count_restaurants:{$sum:1}}}
+    // let stage4 = {$group:{_id:"$count_restaurants",total:{$sum:"$count_restaurants"}}}
+    const all_docs = await collection.aggregate([stage1,stage2,stage3]).toArray();
+    return all_docs;
+
+},
+// Write a MongoDB query to find the sum of all restaurants present in the database
+
+find_asked_:async(db)=>{
+    const collection = db.collection("restaurants")
+    let stage1 = {$group:{_id:"null",Total_Restaurants_Counts:{$count:{}}}}
+    const all_docs = await collection.aggregate([stage1]).toArray();
+    return all_docs;
+},
+// 59. Write a MongoDB query to find the count of restaurants that received a grade of 'A' for each cuisine and borough.
+
+find_asked49:async(db)=>{
+    const collection =  db.collection("restaurants")
+    let stage1 = {$unwind:"$grades"}
+    let stage2 = {$match:{"grades.grade":"A"}}
+    let stage3 = {$group:{_id:["$borough","$cuisine","$grades.grade"],count:{$sum:1}}}
+    let stage4 = {$project:{_id:0,matched:"$_id",count:1}}
+    const all_docs = await collection.aggregate([stage1,stage2,stage3,stage4]).toArray();
+    return all_docs
+},
+// 60. Write a MongoDB query to find the number of restaurants that have been graded in each month of the year.
+
+find_asked50:async(db)=>{
+    const collection =  db.collection("restaurants")
+    let stage1 = {$unwind:"$grades"}
+    // let stage2 = {$match:{"grades.grade":"A"}}
+    let stage2 = {$group:{_id:{month:{$month:"$grades.date"},year:{$year:"$grades.date"}},count:{$sum:1}}}
+    let stage3 = {$sort:{"_id.month":1,"_id.year":1}}
+    const all_docs = await collection.aggregate([stage1,stage2,stage3]).toArray();
+    return all_docs
+},
+// 61. Write a MongoDB query to find the average score for each cuisine.
+find_asked51:async(db)=>{
+    const collection = db.collection("restaurants")
+    let stage1 = {$unwind:"$grades"}
+    let stage2 = {$group:{_id:["$cuisine"], total_cuisine_score:{$sum:"$grades.score"},avg_cuisine_score:{$avg:"$grades.score"},highest_cuisine_score:{$max:"$grades.score"},lowest_cuisine_score:{$min:"$grades.score"},count:{$count:{}}}}
+    let stage3 = {$sort:{"total_cuisine_score":1}}
+    const all_docs = await collection.aggregate([stage1,stage2,stage3]).toArray();
+    return all_docs
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 }
